@@ -2,7 +2,8 @@
 """Hadis Usulü · kaynak dosyalarından index.html üretir.
 
 Kullanım:  python3 kaynak/derle.py
-Okur:      kaynak/01.txt … 17.txt (üniteler), kaynak/sorular.txt, kaynak/sinav.txt, kaynak/sablon.html
+Okur:      kaynak/01.txt … 17.txt (üniteler), kaynak/sorular.txt, kaynak/sinav.txt, kaynak/sablon.html,
+           kaynak/bildir.html (Giray Akademi ortak hata bildirimi)
 Yazar:     index.html (depo kökü)
 
 Ünite dosyası biçimi:
@@ -128,6 +129,9 @@ def main():
     sablon = (K / 'sablon.html').read_text(encoding='utf-8')
     if '/*VERI*/' not in sablon:
         hata('sablon.html içinde /*VERI*/ yok')
+    if '<!--BILDIR-->' not in sablon:
+        hata('sablon.html içinde <!--BILDIR--> yok')
+    sablon = sablon.replace('<!--BILDIR-->', (K / 'bildir.html').read_text(encoding='utf-8'))
     (KOK / 'index.html').write_text(sablon.replace('/*VERI*/', veri), encoding='utf-8')
     tanim = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'd')
     print(f'{len(uniteler)} ünite, {sum(len(u["s"]) for u in uniteler)} bölüm, {tanim} tanım, '

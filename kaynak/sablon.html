@@ -202,6 +202,9 @@ details.harita .hb{padding:0 16px 14px}
 .sened.inl{margin:-2px 0 10px;padding:10px 12px;background:#fff;box-shadow:none}
 .sened.inq{margin:0 0 6px;padding:12px}
 .snote{font-size:.86rem;color:var(--muted);margin-top:8px;font-family:var(--sans)}
+.lesson h3 .rep{margin-left:auto;flex:none;margin-top:2px}
+.cardhead{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.exq .qq .rep{margin-left:auto;flex:none}
 .hide{display:none!important}
 @media (max-width:560px){
   .brand{font-size:1.02rem}.lg{display:none}
@@ -231,6 +234,7 @@ details.harita .hb{padding:0 16px 14px}
 <header class="top"><div class="wrap">
   <button class="brand" onclick="go('home')"><span class="mark" title="Tarak tamga"><svg viewBox="24 22 152 96" width="22" height="14" aria-hidden="true" fill="currentColor"><rect x="45" y="33" width="112" height="12"/><rect x="45" y="33" width="12" height="62"/><rect x="28" y="80" width="29" height="15"/><rect x="145" y="33" width="12" height="62"/><rect x="145" y="80" width="27" height="15"/><rect x="97" y="33" width="13" height="70"/><rect x="77" y="97" width="53" height="15"/></svg></span>Hadis Usulü</button>
   <div class="spacer"></div>
+  <span id="bldSlot"></span>
   <button class="ghost iconbtn" title="Ara" aria-label="Ara" onclick="openSearch()"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></button>
   <button class="ghost hide" id="backBtn" onclick="goBack()">←<span class="lg"> Geri</span></button>
 </div></header>
@@ -238,6 +242,8 @@ details.harita .hb{padding:0 16px 14px}
 <main class="wrap" id="app"></main>
 <div class="sov" id="sov" role="dialog" aria-label="Arama"><div class="sbox"><div class="sbar"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg><input id="sq" type="search" placeholder="Kavram, eser ya da konu ara…" autocomplete="off" oninput="doGlobalSearch()"><button class="ghost" onclick="closeSearch()">Kapat</button></div><div class="sres" id="sres"></div></div></div>
 <div class="sig"><span>© 2026 Her hakkı saklıdır</span><i>·</i><span>Designed by: <b>M.ALPKİRAY</b></span></div>
+<script>window.BLD_APP = 'Hadis Usulü'; window.BLD_PREFIX = 'hu_'; window.BLD_SLOT = '#bldSlot';</script>
+<!--BILDIR-->
 
 <script>
 /*VERI*/
@@ -249,6 +255,7 @@ const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const norm = s => String(s).toLocaleLowerCase('tr').normalize('NFD').replace(/[̀-ͯ]/g, '')
   .replace(/[’'ʿʾ‘`"]/g, '').replace(/ı/g, 'i').replace(/[^a-z0-9؀-ۿ ]/g, ' ').replace(/\s+/g, ' ').trim();
+const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
 const plain = s => String(s).replace(/\*\*/g, '').replace(/[«»]/g, '');
 // Metin biçimi: **kalın**, «Arapça»
 function fmt(s) {
@@ -463,7 +470,7 @@ function home() {
       <li><b>Sınava hazırlan.</b> <i>Konu tekrarı</i> bir bölüm başlığı gösterir; önce kendin anlat, sonra içeriği açıp kontrol et. <i>Geçmiş sınav soruları</i> 2022 1. dönem sorularını ilgili bölümlere bağlar.</li>
       <li><b>Takip et.</b> <i>İlerlemem</i> ünite bazında başarını ve en çok karıştırdıklarını gösterir. Üstteki <b>🔍</b> bütün konu anlatımlarında arar.</li>
     </ol>
-    <p class="hownote">İlerlemen yalnızca bu cihazda, bu tarayıcıda saklanır.</p>
+    <p class="hownote">İlerlemen yalnızca bu cihazda, bu tarayıcıda saklanır. Bir hata görürsen yanındaki <b>⚑ Bildir</b>'e dokun.</p>
   </details>
   <button class="study-cta" onclick="go('study')"><div class="ico">❖</div><div><h3>Çalış · ünite ünite öğren</h3><p>${uDone()} / ${UNITELER.length} ünite tamamlandı. Önce oku, sonra mini testle pekiştir.</p></div></button>
   <div class="section-title">Çalışma modları</div>
@@ -512,7 +519,7 @@ function unitView(i) {
   <p class="intro">${esc(u.intro)}</p>
   ${u.s.length > 3 ? `<div class="toc">${u.s.map((s, k) => `<button onclick="jump('ls-${i}-${k}')">${esc(s.h)}</button>`).join('')}</div>` : ''}
   <div class="lesson">
-    ${u.s.map((s, k) => `<section class="ls" id="ls-${i}-${k}"><h3><span class="no">${k + 1}</span>${fmt(s.h)}</h3>${s.b.map(blockHTML).join('')}</section>`).join('')}
+    ${u.s.map((s, k) => `<section class="ls" id="ls-${i}-${k}"><h3><span class="no">${k + 1}</span>${fmt(s.h)}${bldButton('b:' + i + '-' + k, 'Ünite ' + (i + 1) + ' · ' + u.t, s.h)}</h3>${s.b.map(blockHTML).join('')}</section>`).join('')}
   </div>
   ${i === SN_HARITA ? haritaHTML() : ''}
   <div class="actions" style="justify-content:space-between;margin-top:10px">
@@ -545,7 +552,7 @@ function renderQ() {
   $('#app').innerHTML = `
   <div class="bar"><div class="progress"><i style="width:${100 * Q.i / Q.list.length}%"></i></div><span class="count">${Q.i + 1} / ${Q.list.length}</span></div>
   <div class="card">
-    <span class="tag">Ünite ${q.u + 1} · ${esc(UNITELER[q.u].t)}</span>
+    <div class="cardhead"><span class="tag">Ünite ${q.u + 1} · ${esc(UNITELER[q.u].t)}</span>${bldButton(q.key, 'Test · Ünite ' + (q.u + 1) + ' · ' + UNITELER[q.u].t, strip(q.soru) + ' | Doğru cevap: ' + plain(q.dogru))}</div>
     <div class="q${q.long ? ' long' : ''}">${q.soru}</div>
     <div class="opts">${q.sec.map((s, i) => `<button class="opt" data-i="${i}" onclick="answer(this)"><span class="k">${'ABCD'[i]}</span><span>${fmt(s)}</span></button>`).join('')}</div>
     <div class="explain" id="exp"></div>
@@ -657,7 +664,8 @@ function renderF() {
   <div class="actions" style="justify-content:center">
     <button class="btn red" onclick="fAns(false)">Bilemedim</button>
     <button class="btn" onclick="fAns(true)">Bildim</button>
-  </div>`;
+  </div>
+  <div style="text-align:center;margin-top:10px">${bldButton('d:' + d.id, 'Kavram kartı · Ünite ' + (d.u + 1) + ' · ' + UNITELER[d.u].s[d.s].h, plain(d.t) + ': ' + plain(d.x))}</div>`;
 }
 function fAns(ok) {
   const d = F.list[F.i];
@@ -685,7 +693,7 @@ function renderO() {
   <div class="rowctl">${unitSelect(O.u, 'oralView')}</div>
   <div class="bar"><div class="progress"><i style="width:${100 * O.i / O.list.length}%"></i></div><span class="count">${O.i + 1} / ${O.list.length}</span></div>
   <div class="card">
-    <span class="tag">Ünite ${b.u + 1} · ${esc(UNITELER[b.u].t)}${d === 1 ? ' · daha önce bildin' : d === 0 ? ' · daha önce bilemedin' : ''}</span>
+    <div class="cardhead"><span class="tag">Ünite ${b.u + 1} · ${esc(UNITELER[b.u].t)}${d === 1 ? ' · daha önce bildin' : d === 0 ? ' · daha önce bilemedin' : ''}</span>${bldButton('b:' + b.u + '-' + b.s, 'Konu tekrarı · Ünite ' + (b.u + 1) + ' · ' + UNITELER[b.u].t, s.h)}</div>
     <div class="q">${fmt(s.h)}</div>
     <p class="lead" id="think" style="font-size:.9rem">Bu bölümde neler olduğunu önce kendin anlat (tanım, maddeler, eserler), sonra içeriği aç.</p>
     <div class="answer lesson" id="ans">${s.b.map(blockHTML).join('')}</div>
@@ -707,7 +715,7 @@ function exam() {
   $('#app').innerHTML = `
   <h2 style="margin-top:22px">Geçmiş sınav soruları</h2>
   <p class="lead">2022 1. dönem soruları. Önce kendin cevapla, sonra not ve ilgili bölümlere bak.</p>
-  ${SINAV.map((q, k) => `<div class="exq"><div class="qq"><span class="no">${k + 1}</span><span>${fmt(q.q)}</span></div>
+  ${SINAV.map((q, k) => `<div class="exq"><div class="qq"><span class="no">${k + 1}</span><span>${fmt(q.q)}</span>${bldButton('x:' + (k + 1), 'Geçmiş sınav soruları · 2022', plain(q.q))}</div>
     <details class="oq" style="margin-top:10px"><summary>Cevap notu ve ilgili bölümler</summary><p style="margin:8px 0 0;font-size:.93rem;line-height:1.6">${fmt(q.x)}</p>
     <div class="links">${q.r.map(([u, s]) => `<button onclick="toSection(${u},${s})">Ü${u + 1} · ${esc(UNITELER[u].s[s].h)}</button>`).join('')}</div></details></div>`).join('')}`;
 }
