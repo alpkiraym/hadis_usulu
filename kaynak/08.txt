@@ -1,0 +1,51 @@
+# Senedden Ravi Düşmesi: Mürsel, Munkatı, Mu'dal, Muallak
+> Zayıf hadisin nevilerinden senetteki kopukluğa göre adlandırılanlar: mürsel ve hücciyeti, sahabe mürseli, munkatı, mu'dal ve muallak hadis.
+## Mürsel Hadis
+: Mürsel Hadis = Vasıtayı zikretmeksizin tabiinin Efendimiz'e (sav) isnad etmiş olduğu hadistir.
+- **Tâbiî-i kebîr:** Said b. Müseyyeb, Kays b. Ebî Hâzim
+- **Tâbiî-i sağîr:** İbn Şihâb ez-Zührî, Yahya b. Said el-Ensârî
+## Mürselin hücciyeti
+1. **Mürsel hadis mutlak olarak zayıftır:** Cumhur muhaddislerin görüşüdür.
+2. **Mutlak olarak hüccettir:** Cumhur fukaha ve müçtehitlerin görüşüdür. "Mürsel, müsnetten daha kuvvetlidir" demişlerdir.
+3. **Kibâr-ı tâbiînden gelen rivayetler hüccettir:** İmam Şâfiî'nin görüşüdür.
+### İmam Şâfiî'nin mürsel şartları
+1. Hadis, başka bir vecihle müsned olarak gelecek.
+2. Hadis, başka bir vecihle mürsel olarak gelecek. Fakat iki mürselin mürsillerinin hocası farklı olacak.
+3. Sahabe kavliyle desteklenecek.
+4. İlim ehlinin çoğu bu mürsel ile fetva vermiş olacak.
+5. Zikredilmeyen ravi başka isnadlarda mechul veya mecruh olan bir ravi olmayacak.
+## Mürsel hadis rivayet eden en meşhur tabiiler
+- **Medine:** Said b. Müseyyeb
+- **Mekke:** Atâ b. Ebî Rebâh
+- **Mısır:** Said b. Ebî Hilâl
+- **Şam:** Mekhûl ed-Dımeşkî
+- **Basra:** Hasan-ı Basrî
+- **Kûfe:** İbrahim b. Yezid en-Nehaî
+## Mürselin kaynakları
+1. **el-Merâsîl** → Ebu Davud es-Sicistânî (ale'l-ebvâb)
+2. **el-Merâsîl** → İbn Ebî Hâtim (ale'r-ricâl)
+3. **Beyânü'l-Mürsel** → Birdîcî
+4. **Câmiu't-Tahsîl bi-Ahkâmi'l-Merâsîl** → el-Alâî
+## Sahabe Mürseli
+: Sahabe Mürseli = Sahabenin yaş küçüklüğü, geç Müslüman olması, hazır bulunmaması veya işitmediği bilinen bir hadisi Efendimiz'e isnat ettiği hadistir.
+- Cumhur ulemaya göre hüccettir. Çünkü bir sahabe genellikle bir sahabeden nakil yapar. Tüm sahabeler de udûl olduğuna göre bir problem teşkil etmez. Ayrıca bir tabiinden rivayet etseydi kesinlikle bunu belirtirdi.
+## Munkatı Hadis
+: Munkatı Hadis = Sahabeden önce ravinin düştüğü her yerde sadece bir ravinin düştüğü hadistir.
+- İmam Şâfiî bunu maktu diye isimlendirmiştir.
+- Bazıları ise bizim maktu dediğimize munkatı demişlerdir.
+- **Hükmü:** Senedden düşen kişinin durumu bilinmediği için zayıftır ve hüccet değeri yoktur.
+## Mu'dal Hadis
+: Mu'dal Hadis = Senedinde peşpeşe iki veya daha fazla ravi düşen hadistir.
+- Munkatı'dan daha düşük derecededir. Dolayısıyla hüccet değeri yoktur.
+- İbn Ebi'd-Dünyâ'nın eserlerinde ve Mansur b. Şu'be'nin "Sünen" isimli eserinde munkatı ve mu'dal hadis bulmak mümkündür.
+## Muallak Hadis
+: Muallak Hadis = Senedin baş tarafından bir veya daha fazla ravinin peşpeşe düştüğü hadistir.
+- Ravinin durumu veya düşen raviler bilinmediği için zayıftır, munkatı hükmündedir.
+### Sahihayn ve Muvatta muallakları
+1. İbn Hacer, Buhari'nin muallak hadislerini araştırmıştır. **"Tağlîku't-Ta'lîk"** adlı eserinde başka tariklerle veya Buhari tarikiyle bunların ittisalini tespit etmiştir.
+2. Sahih-i Müslim'de sadece **14** muallak hadis vardır. **İmam Nevevî** bunları, üzerine yazmış olduğu şerhinde açıklamış ve ittisalini ispat etmiştir.
+3. İmam Malik'in Muvatta'sındaki «بلغني» lafızları da muallak kabilindendir. Bunları ise **İbn Abdilberr** "et-Temhîd limâ fi'l-Muvatta' mine'l-Meânî ve'l-Esânîd" adlı eserinde dört hadis hariç hepsinin ittisalini ispat etmiştir.
+### Mu'dal ve muallakın farkları
+1. Mu'daldaki ravi düşüklüğü senedin ortasında da olabilir.
+2. Muallak senedin başından bir ravinin düşmesiyle de olabilir.
+3. Eğer senedin başından iki veya daha fazla düşerse hem mu'dal hem muallaktır.

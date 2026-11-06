@@ -1,0 +1,28 @@
+# İtibar, Mütâbaat, Şâhid ve Sika Ravinin Ziyadesi
+> Bir hadisin başka tariklerinin araştırılması (itibar), mütâbaat ve şâhid; sika ravinin ziyadesi ve muttasıl senetteki ziyadelik.
+## İtibar
+: İtibar = Hadisin durumu hakkında; ravinin teferrüd edip etmediği ve hadisin bilinip bilinmediği konularını araştırmaktır.
+- İtibar, araştırmacının tüm hadis kaynaklarını tarayarak hadisin başka bir raviden de tariki olup olmaması konusunda hadisin tariklerini incelemektir.
+## Mütâbaat
+: Mütâbaat = Bir hadisin rivayetinde, bir ravinin başka bir ravi ile şeyhinde veya daha üstü bir tabakada birleşmesidir.
+- Sahabelerin her halde aynı kişi olması gerekir.
+: Tam Mütâbaat = Raviler şeyhlerinde birleşirse bu tam mütâbaat olur.
+: Nâkıs Mütâbaat = Raviler şeyhlerinde değil de daha üstü bir tabakada birleşirse nâkıs mütâbaat olur.
+## Şâhid
+: Şâhid = Bir sahabenin rivayet ettiği hadisin, başka bir sahabinin rivayetiyle mana veya lafız yönünden muvafık olmasıdır.
+! Müslim'in Sahih'i, mütâbaat ve şâhidleri bir hadiste ve tek bir yerde zikretmesiyle diğer kitaplardan ayrılmıştır.
+! **İbn Hacer:** Mütâbaat ve şâhid kavramları birbiri yerine kullanılabilir. Bu konuda genişlik vardır.
+## Sika ravinin ziyadesi
+1. Tek bir hadiste iki sika raviden birinin diğerinin yapmadığı bir ziyade ile meydana gelir.
+2. Ya da bir ravinin aynı hadisin iki rivayetinde birisinde yapmadığı bir ziyade ile meydana gelir.
+### Hükmü
+1. **Mutlak olarak ziyade kabul edilir:** Cumhur muhaddis ve fukahanın görüşüdür.
+2. **Mutlak olarak kabul edilmez:** Bazı muhaddislerin görüşüdür.
+3. **Ziyade farklı ravilerden ise kabul, aynı raviden ise merdud olur.**
+4. **İbnü's-Salâh'a göre:** Metinleri muhalifse ziyade şazdır. Metinler muhalif değilse ziyade makbuldür. Hadiste ravilerden başkasının zikretmediği ziyade lafız varsa iki şeye de ihtimallidir; red veya kabule hükmedilmez.
+## Muttasıl senetteki ziyadelik
+: el-Mezîd fî Muttasıli'l-Esânîd = Ravinin senedi sahih ve muttasıl olan bir hadiste, hiçbir ravinin zikretmediği kişiyi bu senede eklemesidir.
+- Ziyadeli olarak aktarılan isnadın merdud olması için iki şart aranır:
+1. Bu raviden daha zâbıt ve mütkin olması
+2. «سمعت» lafzı ile aktarması
+- **Temyîzü'l-Mezîd fî Muttasıli'l-Esânîd** → Hatîb el-Bağdâdî

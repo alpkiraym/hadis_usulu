@@ -1,0 +1,67 @@
+# Sahih Hadis
+> Sahih hadisin tanımı, şartları, en sahih senetler, sahih hadis kaynakları (Buhari, Müslim, Müstedrek, İbn Huzeyme, İbn Hibban), müstahrec ve sahihin mertebeleri.
+## Tanım
+: Sahih Hadis = Adalet ve zabt sahibi ravilerin kendileri gibi ravilerden muttasıl bir senetle rivayet ettikleri, şaz ve muallel olmayan hadistir.
+- **Sahih li-zâtihî** ve **sahih li-ğayrihî** olmak üzere ikiye ayrılır.
+- Ravinin zabtında kusur varsa **hasen** derecesine düşer.
+## Şartları
+1. Sened muttasıl olacak
+2. **Adalet** (Adil ravi: Müslüman, akıl-baliğ, büyük günah işlemekten uzak ve küçük günahlarda da ısrar etmeyen, onur kırıcı hal ve hareketlerden uzak duran kişidir.)
+3. **Zabt** (Hafıza zabtı ve kitapta zabt olarak ikiye ayrılır.)
+4. Şaz ve muallel olmayacak (Muallel, kendisinde illet-i kâdiha bulunan hadistir.)
+## En sahih senetler
+1. **Ahmed b. Hanbel'e göre:** Zührî – Sâlim b. Abdillah – Abdullah b. Ömer
+2. **Yahya b. Maîn'e göre:** A'meş – İbrahim b. Yezid – Alkame – Abdullah b. Mes'ud
+3. **Buhari'ye göre:** Malik b. Enes – Nâfi – Abdullah b. Ömer
+## Kaynakları
+1. Buhari
+2. Müslim
+3. Müstedrek
+4. Sahih-i İbn Huzeyme
+5. Sahih-i İbn Hibban
+6. el-Ehâdîsü'l-Muhtâre (Makdisî'nin eseri)
+## Buhari · «الجامع الصحيح المسند المختصر من أمور رسول الله وسننه وأيامه»
+- Muhammed b. İsmail Buhari.
+- Hadisleri sahih olarak alan ilk kişidir.
+- Kitabını 600 bin hadis içerisinden seçerek oluşturmuştur.
+- Her hadisin yazımından önce gusül alıp 2 rekat namaz kılmıştır.
+- 2337 hadis içerir (mükerrerlerle 7123).
+## Müslim · «الجامع الصحيح»
+- Müslim b. el-Haccâc en-Nîsâbûrî.
+- Buhari'nin öğrencisidir.
+- 3031 hadis içerir (mükerrerlerle 10.000).
+## Buhari ve Müslim'in birbirine tercih edilme sebepleri
+1. Buhari, Müslim'in hocasıdır.
+2. Buhari'nin şartları daha ağırdır.
+3. Buhari'ye göre "muanan" rivayette ravi hocası ile muasır olup karşılaşması gerekir. Müslim'de ise muasır olup karşılaşma ihtimali yeterlidir.
+4. Buhari'de Müslim'e göre tenkide tabi tutulan rivayet ve raviler daha azdır. Tenkide tutulanlar ise genelde Buhari'nin hocalarıdır, Müslim'in ise daha üst tabakadaki ravilerdir.
+## Müstedrek
+- Önceki bir muhaddisin şartlarına (ravi-sened) uyduğu halde herhangi bir sebeple eserine almadığı hadisleri toplayan eserlerdir.
+- En meşhuru **Hâkim en-Nîsâbûrî**'nin Müstedrek isimli eseridir.
+- Ancak Hâkim hadis rivayetinde şartlara riayet etme noktasında mütesâhil davrandığı için rivayetleri tenkide tabi tutulmuştur. (Sonra 2. cilde kadar tekrar düzenlemiştir.)
+## Sahih-i İbn Huzeyme
+- Küçük bir tereddütte hadise sahih demez.
+- Hadisler arasında tearuz yoktur.
+- Tearuz diye görülen hadisleri cem etme hususunda özel bir yeteneği vardır.
+## Sahih-i İbn Hibban
+- Hâkim en-Nîsâbûrî'nin hocasıdır.
+- Eserin ismi «التقاسيم والأنواع» (et-Tekâsîm ve'l-Envâ')'dır.
+! **Son üç eserin sıralanışı:** İbn Huzeyme'nin Sahihi → İbn Hibban'ın Sahihi → Müstedrek
+## Müstahrec
+: Müstahrec = Herhangi bir hadis kitabındaki hadisleri başka senetlerle yeni bir kitapta toplamadır.
+- Daha çok Sahihayn üzerine yapılmıştır.
+### Faydaları
+- Tarikte çokluk, hadisin kuvvetini ziyade eder.
+- Sika ravilerin çok olduğunu ortaya çıkarır.
+### Müstahrec yazanlar
+- **Sahihayn üzerine:** Ebu Nuaym el-İsfahânî
+- **Sadece Buhari üzerine:** Ebubekir el-İsmâilî
+- **Sadece Müslim üzerine:** Ebu Avâne el-İsferâyînî
+## Sahih hadisin mertebeleri
+1. Müttefekun aleyh
+2. Efrâdü'l-Buhârî
+3. Efrâdü'l-Müslim
+4. Buhari ve Müslim'in rivayet etmediği ama şartlarına uygun
+5. Buhari'nin şartlarına uygun
+6. Müslim'in şartlarına uygun
+7. Şartlara uygun olmayıp diğer muhaddislerin rivayet ettikleri

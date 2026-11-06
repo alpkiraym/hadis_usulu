@@ -1,0 +1,53 @@
+# Ravi Sayısına Göre Hadis: Mütevatir ve Âhad
+> Hadisin ravi sayısı bakımından mütevatir ve âhad diye ayrılması; mütevatirin şartları ve kısımları; meşhur, aziz, ferd ve garib hadis.
+## Hadisin taksimi
+- Hadis, ravi sayısı bakımından **mütevatir** ve **âhad** olarak ikiye ayrılır.
+- Âhad hadis: **garib**, **aziz** ve **müstefiz (meşhur)** kısımlarına ayrılır.
+## Mütevatir Hadis
+: Mütevatir Hadis = Her tabakada (ilk üç tabaka) sayısı korunmuş, yalan üzere birleşmeleri mümkün olmayan kalabalık bir grup tarafından, duyu organları ile rivayet edilen hadistir.
+### Şartları
+1. Her tabakada tevatür seviyesinde cemaatin bulunması (ilk üç tabaka önemli)
+2. Ravilerin yalan üzerine birleşmelerinin mümkün olmaması
+3. Bu cemaatin senedin başından sonuna kadar korunmuş olması
+4. Haberin hissî olarak isnad edilmesi
+### Kısımları
+: Lafzî Mütevatir = Bütün ravilerin aynı lafzı kullandıkları hadistir. «من كذب عليّ متعمدا فليتبوأ مقعده من النار»
+: Manevî Mütevatir = Lafızları farklı, manaları aynı olan hadislerdir. Hadisler tek tek tevatür değil, manaları aynı olduğu için toplu olarak tevatür sayılır.
+- **Manevî mütevatir örneği:** Peygamber Efendimiz'in duada ellerini kaldırması gibi. Sahabe-i kiramdan her biri farklı vakıayı aktarırken ortak payda Hz. Peygamber'in (sav) dua ettiği zaman ellerini kaldırmasıdır.
+### Kaynakları
+1. **Katfu'l-Ezhâri'l-Mütenâsire fi'l-Ahbâri'l-Mütevâtire** → Suyûtî
+2. **Nazmü'l-Mütenâsir mine'l-Hadîsi'l-Mütevâtir** → Kettânî
+! Âlimlere göre mütevatir hadisin senedi sorgulanmaz ve ricâl bilgisi soruşturulmaz. Bundan dolayı mütevatir hadis mustalahu'l-hadis alanına alınmamıştır.
+## Meşhur Hadis
+: Meşhur Hadis = Her tabakada en az üç ravisi bulunup tevatür seviyesine ulaşmayan hadis türüdür.
+- Bazı muhaddisler bu türe "müstefiz" demişlerdir.
+- **Hükmü:** Sahih, hasen veya zayıf olabilir. Mahza şöhretinden dolayı bir hadis sahih olmaz.
+- Meşhur, yukarıdaki ıstılahi tanımdan farklı olarak "dillerde meşhur" («المشهور على الألسنة») olarak da kullanılmıştır. Bu ıstılahi tanımdan daha umumidir.
+### Eserler
+1. **el-Makâsıdü'l-Hasene** → İmam Sehâvî
+2. **Keşfü'l-Hafâ** → Aclûnî
+3. **ed-Dürerü'l-Müntesira fi'l-Ehâdîsi'l-Müştehira** → Suyûtî
+## Aziz Hadis
+: Aziz Hadis = Her tabakada iki ravi ile sınırlandırılmış olan hadis türüdür.
+- Her tabakada illa iki ravi olacak diye bir kaide yoktur. Burada anlaşılması gereken: hadisin herhangi bir tabakasında ravilerinin sayısının iki olması o hadisin aziz olması için yeterlidir.
+- Çok az bulunduğu için ya da başka bir tarikle güç kazandığı için aziz diye isimlendirilmiştir.
+- **Hükmü:** Sahih, hasen veya zayıf olabilir.
+## Ferd Hadis
+: Ferd Hadis = Teferrüd vecihlerinden bir vecih ile ravinin rivayetinde teferrüd ettiği hadistir.
+: Ferd-i Mutlak = Tek bir ravinin rivayetinde teferrüd ettiği hadistir. Hadis sadece bu ravi üzerinden aktarılmıştır. Bu hem isnat hem de metin yönünden garibtir.
+: Ferd-i Nisbî = Belli bir noktadan hareketle tek kalmış, teferrüd etmiş hadistir.
+### İbn Hacer ferd-i nisbîyi 4 kısma ayırmıştır
+1. Bir kişinin bir kişiden teferrüdü (isnad-ı garib bu kısımdır)
+2. Bir belde ehlinin tek kişiden teferrüdü
+3. Tek kişinin bir belde ehlinden teferrüdü (çok nadirdir)
+4. Bir belde ehlinin bir belde ehlinden teferrüdü
+## Garib Hadis
+: Garib Hadis = Senedin herhangi bir yerinde tek bir ravinin rivayetinde teferrüd ettiği hadistir.
+- Her garib ferddir. Fakat her ferd garib değildir. Ferd daha umumidir.
+: Metin ve Senet Olarak Garib = Metnin sadece tek bir ravinin tarikiyle bilinmesidir. Ferd-i mutlak diye de isimlendirilir.
+: Sadece İsnat Olarak Garib = Metni birçok sahabiden birçok tarikle bilinmesiyle beraber ravinin başka bir sahabiden rivayetiyle teferrüd etmesidir. Ferd-i nisbînin birinci kısmıdır.
+! Ferd veya garib hadis sahih, hasen veya zayıf olabilir.
+### Ferd ve garib hadislerin eserleri
+1. **Müsned** → Ebu Bekir el-Bezzâr
+2. **el-Mu'cemü'l-Evsat** → Ebu'l-Kâsım et-Taberânî
+3. **Kitâbü'l-Efrâd** → Dârekutnî

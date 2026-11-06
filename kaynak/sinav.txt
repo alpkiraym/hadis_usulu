@@ -1,0 +1,36 @@
+# 2022 1. dönem sınav soruları. Biçim:
+# ? soru
+# > ünite no:bölüm başlığı (ilgili yer; birden fazla olabilir)
+# = cevap notu (kaynaktan)
+? Muzdarib hadis, münkerü'l-hadis, lehu'l-menâkîr, sahih li-ğayrihî, maktu hadis, mürsel-i hafî, müsned hadis, mahfuz, tedlîsü'l-isnad, muallel hadis kavramlarını açıklayınız.
+> 10:Muzdarib Hadis
+> 10:Münker Hadis
+> 4:Tanım
+> 7:Maktu Hadis
+> 9:Mürsel-i Hafî
+> 7:Müsned Hadis
+> 10:Şâz Hadis
+> 9:Tedlîsü'l-İsnâd
+> 10:Muallel Hadis
+= "Münkerü'l-hadis" ve "lehu'l-menâkîr" için kaynakta münker hadis bahsindeki cerh lafızlarına bakınız («منكر الحديث» ile «روى المناكير»). Sahih li-ğayrihî kaynakta yalnızca sahihin iki kısmından biri olarak anılır, ayrıca tanımlanmaz. Mahfuz, şazzın zıddıdır.
+? Mütekaddimûn ve müteahhirûn dönemlerine ait 3'er hadis usulü eserini müellifleriyle yazınız.
+> 1:Mütekaddimûn Dönemi
+> 1:Müteahhirûn Dönemi
+= Mütekaddimûn: Râmhürmüzî – el-Muhaddisü'l-Fâsıl; Hâkim en-Nîsâbûrî – Ma'rifetü Ulûmi'l-Hadîs; Ebû Nuaym el-İsfahânî – Müstahrec; Hatîb el-Bağdâdî – el-Kifâye. Müteahhirûn: Kadı İyaz – el-İlmâ'; İbnü's-Salâh – Mukaddime; İbn Hacer – Nuhbetü'l-Fiker; İbn Cemâa – el-Menhelü'r-Ravî.
+? Beş adet sened verilmiş, bu senedlerde kopukluk olan yerler işaretlenmiş ve böyle bir hadisin türü istenmişti.
+> 8:Mürsel Hadis
+> 8:Munkatı Hadis
+> 8:Mu'dal Hadis
+> 8:Muallak Hadis
+> 9:Mürsel-i Hafî
+= Kopukluğun yerine ve sayısına göre: tabii vasıta zikretmeden Efendimiz'e isnad etmişse mürsel; sahabeden önce tek ravi düşmüşse munkatı; peşpeşe iki veya daha fazla ravi düşmüşse mu'dal; senedin başından düşmüşse muallak (baştan iki veya daha fazla ise hem mu'dal hem muallak).
+? Mürsel hadisin tanımını yapıp mürsel hadis ile amel eden ve etmeyenleri gerekçeleriyle birlikte açıklayınız.
+> 8:Mürsel Hadis
+> 8:Mürselin hücciyeti
+= Cumhur muhaddislere göre mutlak zayıftır; cumhur fukaha ve müçtehitlere göre mutlak hüccettir ("mürsel müsnetten daha kuvvetlidir"); İmam Şâfiî'ye göre kibâr-ı tâbiînden gelenler beş şartla hüccettir.
+? Hükmen merfu hadisin bilinme şekillerini yazınız.
+> 7:Hükmen merfu (4.–8. meseleler)
+= "Peygamber zamanında" kaydı; "emrolunduk, nehyolunduk"; "bu sünnettendir"; içtihadla söylenemeyecek söz (ehl-i kitaptan rivayeti meşhur değilse); esbâb-ı nüzûl; «يرفعه / ينميه / يبلغ به» lafızları.
+? Efendimizin hadislerin yazımına dair izinleri ve yasaklarıyla ilgili rivayetler arasında çelişki gibi görünen durumu giderme yolunu "Hadislerin Yazılmasıyla İlgili Rivayetlerin Tenkit ve Değerlendirilmesi" makalesi bağlamında açıklayınız.
+> 1:Merhaleler: Hıfz Dönemi
+= Bu soru ayrı bir makaleye dayanıyor; o makale elimizdeki kaynakta yok. Kaynakta yalnızca hıfz döneminde kitabet olmamasının sebepleri (yazımın Kur'an ile karışmasın diye yasaklanması dâhil) yer alıyor.

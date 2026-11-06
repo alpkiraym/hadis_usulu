@@ -1,0 +1,53 @@
+# Mevzu Hadis
+> Uydurma hadisin tanımı, uyduranlar ve uydurma sebepleri, hükmü, uydurma hadisi bilme yolları ve âlimlerin uydurmaya karşı mücadelesi.
+## Tanım
+: Mevzu Hadis = Efendimiz'e iliştirilmiş, yalan ve iftira olarak uydurulmuş sözdür.
+### Buna hadis denmesinin sebebi
+1. Zann-ı galip ile hüküm verdiğimiz içindir.
+2. Uyduranın iddiası doğrultusunda denilir.
+### Üç kısımdan oluşur
+1. Kişinin ya kendi sözüdür.
+2. Ya hikmetli söz veya atasözüdür.
+3. İsrâilî kıssalar olabilir.
+## Hadis uyduranlar
+1. Zındıklar
+2. Mezhebini destekleyen
+3. Meslek edinip kazanç sağlayan
+4. Cahil dindarlar
+5. Dünyevi amaç için ümeraya yalakalık yapanlar
+6. Kötülük yapmak ya da galip gelmek için
+7. Kasıtsız yapanlar
+## Hadis uydurmanın hükmü
+- Yalan, aklın kendisini çirkin gördüğü, şeriatın cezalandırdığı büyük günahlardandır.
+- **İmam Cüveynî:** Bu kişi mürtettir.
+- **Cumhur:** Helal görmediği takdirde mürtet değil fasıktır.
+## Uydurma hadisi rivayet etmenin hükmü
+- Bu hadis ittifakla zayıf hadisin en şerlisidir.
+- Hangi konuda olursa olsun bir ravinin mevzu hadisi bile bile rivayet etmesi haramdır.
+- Tazir edilebilir.
+- Mevzu olduğunu bildirmek için bu rivayeti aktarıyorsa bunda bir sıkıntı yoktur.
+## Hadis uydurma sebeplerinin en önemlileri
+1. **İslam'a ilave:** Zındıklar, İslam'a karşı içlerinde sakladıkları kinden dolayı yaparlar. «لو أحسن أحدكم الظن بحجر لنفعه»
+2. **Kendi görüşünü destekleme**
+3. **Doğruya rücu etmekten kibirlenmek:** Bunu yapanlar hakkın başkasının elinden sadır olmasını kendilerine yedirememişlerdir. (Mekke'nin zorla veya barışla fethedilmesi)
+4. **Kıssa yolu ile kazanç:** «عمر نور في الإسلام وسراج لأهل الجنة»
+5. **Nüfuzlu ve sultanlara yanaşmak**
+6. **Teşvik ve korkutma:** Bunu yapanlar hadisi insanların aleyhine değil lehine uydurduklarını iddia etmişlerdir.
+## Uydurma hadisi bilme yolları
+1. **Uyduranın ikrarı veya ikrar makamında:** Kişi kendisinin uydurduğunu söylemesi ile olur (Nuh b. Ebî Meryem gibi; fakat Babanzâde bu kişinin uydurmadığını söyler). İkrar makamında bir şeyle de anlaşılabilir: hocam dediği kişinin ravi doğmadan öldüğünü biliyorsak; bir beldede hocadan işittiğini söyleyip o hocanın o beldeye hiç gitmediğini biliyorsak.
+2. **Mana düşüklüğü «ركيك المعنى»:** Akılla, nakille ve usulle ters düşen hadislerdir.
+3. **Mübalağalı karşılıklar:** Küçük bir günaha büyük bir azap veya küçük bir amele büyük bir ödül gibi.
+4. **Hisse ve müşahedeye ters düşmesi**
+5. **Sarih bir şekilde Kur'an'a, sünnete ve icmaya ters düşmesi:** Bu terslik tevile imkân vermeyen bir şey olması gerekir.
+6. **Ehil bir âlimin hiçbir kitapta bulamaması**
+## Âlimlerin ve muhaddislerin uydurmaya karşı mukavemetleri
+1. **Rivayette tesebbüt:** Sadece adalet ve zabtı sağlam olan rivayet ehli kimselerden rivayet ediyorlardı. Hz. Osman zamanındaki fitnelerden dolayı bu ihtiyat erken dönemde başlamıştır.
+2. **Tüm hadisleri toplama ve tedvin etmeleri**
+3. **Mevzu hadisleri derleyen kitaplar telif etmeleri**
+## Mevzu hadisleri derleyen eserler
+1. **el-Mevzûât mine'l-Ehâdîsi'l-Merfûât (el-Ebâtîl)** → el-Cûzekânî
+2. **el-Mevzûât** → İbnü'l-Cevzî
+3. **el-Leâli'l-Masnûa fi'l-Ehâdîsi'l-Mevzûa** → Suyûtî (İbnü'l-Cevzî'nin eserinin muhtasarı)
+4. **Zeylü'l-Leâlî** → Suyûtî (İbnü'l-Cevzî'nin almadığı mevzu hadisler)
+5. **Tenzîhü'ş-Şerîati'l-Merfûa ani'l-Ehâdîsi'ş-Şenîati'l-Mevzûa** → İbn Irâk (Ale'l-ebvâb şeklindedir. 3 fasıldan oluşur: 1. fasıl Suyûtî ve İbnü'l-Cevzî'nin uydurma dediği, 2. fasıl İbnü'l-Cevzî, 3. fasıl ise Suyûtî'nin dediği şeklindedir.)
+6. **el-Mevzûâtü'l-Kübrâ ve's-Suğrâ** → Ali el-Kârî

@@ -1,0 +1,61 @@
+# Hadis İlminin Doğuşu ve Gelişimi
+> Hadislerin yazıya geçirilmesinin merhaleleri ve hadis usulü ilminin sahabeden günümüze gelişimi, her dönemin temel eserleri.
+## Hadis usulünün tanımı
+: Hadis Usulü = Rivayetin adabını ve onu anlamanın keyfiyetini bilmeye ulaştıran; hadisin makbulünü merdudundan ayırt eden kanun ve kaideleri bir araya getirmektir.
+## Merhaleler: Hıfz Dönemi
+- Hz. Peygamber, Râşid halifeler ve Emevi dönemi başlangıcını kapsar.
+### Kitabet olmamasının sebepleri
+1. Arapların ümmi bir toplum olması
+2. Yazım araç-gereçlerinin az olması
+3. Kur'an'a vermiş oldukları önem
+4. Kur'an ile karışma durumu olmasın diye Peygamber Efendimizin yazımı yasaklaması
+## Merhaleler: Tedvin Dönemi
+- Hicri 2. yy'da başlamıştır.
+- Süreci **Ömer b. Abdülaziz** başlatmıştır.
+- Hadisleri ilk yazıya geçiren **İbn Şihab ez-Zührî**'dir.
+- Merfu, mevkuf, maktu olarak kaleme alındı.
+### Eserler (Ale'l-ebvab şeklinde)
+1. **Muvatta** → İmam Malik
+2. **Musannef** → İbn Ebi Şeybe
+3. **Musannef** → Abdurrezzak b. Hemmam b. Nafi
+## Merhaleler: Tecrid Dönemi
+- Merfu hadisler ön plana çıkıyor.
+- Hicri 3. yy'da başlayıp 4. asra kadar devam ediyor.
+- Hadisler kategorize ediliyor.
+- En eski müsned **Ebu Davud et-Tayalisi**'nin müsnedidir.
+### Eserler
+1. **Müsned** → Ebu Davud et-Tayalisi
+2. **Müsned** → Ahmed b. Hanbel
+3. **Kütüb-i Sitte**
+## Merhaleler: Tertip ve Tehzip Dönemi (Tasnif)
+- Hicri 4. asırdan günümüze kadar devam eder.
+- Bu dönemde cami ve sünen isimli eserler kaleme alınmıştır.
+- Klasik eserlere şerh ve haşiyeler yazılmıştır.
+### Eserler
+1. **Câmiu'l-Usûl** → İbnü'l-Esîr el-Cezerî
+2. **Tuhfetü'l-Eşrâf** → Mizzî
+3. **Mecmau'z-Zevâid** → Heysemî
+## Usul ilminin gelişimi: Sahabeler
+- Hadislerin rivayet ve nakilleri esnasında Kur'an'ın metodunu tatbik ederlerdi. Bunlar:
+1. Kizbin haram oluşu
+2. Fasığın getirdiği haberin reddedilmesi
+3. Her hükmün iyice araştırılması
+4. Tekzip edilen haberin nakledilmesinin haram oluşu
+- Sahabe ve ondan sonra gelen tabiinin büyükleri hadisleri rivayet ve aktarma hususunda bu kurallar üzerine devam ettiler.
+! Bu kuralların yazılı olduğu ilk eser **İmam Şâfiî'nin "Risâle"**sidir.
+## Mütekaddimûn Dönemi
+- Hadis usulü olarak yazılan ilk müstakil eser **Râmhürmüzî**'nin **el-Muhaddisü'l-Fâsıl beyne'r-Râvî ve'l-Vâî** adlı eseridir.
+- Bu dönemin diğer önemli eserleri:
+1. **Ma'rifetü Ulûmi'l-Hadîs** → Hâkim en-Nîsâbûrî (52 ana başlık altında)
+2. **Müstahrec** → Ebû Nuaym el-İsfahânî (Hâkim en-Nîsâbûrî'nin eserine ilave)
+3. **el-Kifâye fî İlmi'r-Rivâye** → Hatîb el-Bağdâdî
+## Müteahhirûn Dönemi
+1. **el-İlmâ' fî Zabti'r-Rivâye** → Kadı İyaz
+2. **Mukaddime** → İbnü's-Salâh (65 başlık altında)
+3. **Nuhbetü'l-Fiker** → İbn Hacer (Şerhi: Nüzhetü'n-Nazar)
+4. **el-Menhelü'r-Ravî** → İbn Cemâa
+## Günümüz
+1. **Tevcîhü'n-Nazar ilâ Usûli'l-Eser** → Tâhir el-Cezâirî
+2. **Kavâidü't-Tahdîs** → Cemâleddin el-Kâsımî
+3. **el-Menhecü'l-Hadîs fî Ulûmi'l-Hadîs** → Muhammed Semâhî
+4. **Menhecü'n-Nakd fî Ulûmi'l-Hadîs** → Nureddin Itr

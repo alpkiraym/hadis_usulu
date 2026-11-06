@@ -1,0 +1,38 @@
+# Tahammül ve Edâ Yolları
+> Hadisin hocadan alınması (tahammül) ve aktarılması (edâ); sema, arz, icâze, münâvele, mükâtebe, i'lâm, vasiyyet ve vicâde ile icâzenin çeşitleri.
+## Temel kavramlar
+: Tahammül = Ravinin hadisi hocasından veya ravisinden alması, yani tahammül etmesidir. Tahammülde mümeyyiz olmak yeterlidir, bâliğ olma şartı yoktur.
+: Edâ = Ravinin tahammül ettiği hadisi aktarmasıdır. Müeddi olan kimsede edâ ehliyetine ulaşma şartı aranır.
+## 1) Semâ
+- Cumhura göre tahammül yollarından en muteber mertebe budur.
+- «حدّثنا — أخبرنا — أنبأنا — أملى علينا — سمعت — عن — قال لنا» lafızları
+: İmlâ = Muhaddisin belirli bir zamanda belirlenmiş rivayetleri almasıdır. Hoca hadis talebelerinin arasında durur ve imla ettirir, talebeler de bu hadisleri yazarlar. Daha sonra bu yazılar karşılaştırılır.
+: Gayr-i İmlâ = Hocanın kitabından veya ezberinden hadisi nakletmesidir.
+- İmlâ, tahkik ve zabt açısından daha üstündür.
+## 2) Arz (Kırâat)
+: Arz = Talebenin hocasına hadisleri okumasıdır. Bu okumanın kitabından veya ezberinden olması arasında bir fark yoktur.
+- «قرأت — قُرِئ على فلان — أنا أسمع فأقرّ به — أخبرنا — حدّثنا قراءة عليه» lafızları
+## 3) İcâze
+: İcâze = Yazılı veya sözlü yoluyla rivayet için izin almaktır.
+### İcâzenin çeşitleri
+: İcâze Muayyenin li-Muayyenin = Hocanın muayyen bir kitabını rivayet etmesi için muayyen bir şahsa veya şahıslara izin vermesidir. Cumhura göre caizdir.
+: İcâze Gayr-i Muayyenin li-Muayyenin = Hocanın muayyen olmayan bir kitabını rivayet etmesi için muayyen bir şahsa veya şahıslara izin vermesidir.
+: İcâze li-Gayr-i Muayyenin = Hocanın umum vasfını taşıyan gayr-i muayyen kimselere icazet vermesidir.
+: İcâze li'l-Mechûl bi'l-Mechûl = Hocanın mechul kimseler için ya da mechul şeylerin rivayeti için icazet vermesidir. Sahih değil, fasittir.
+: İcâze li'l-Ma'dûm = Hocanın mevcut olmayan kimseye icazet vermesidir.
+: İcâze mâ lem Yetehammelhu = Hoca tahammül etmediği bir kitabı veya hadisleri ileride işittiği takdirde rivayet etmesi için birine veya birilerine icazet vermesidir. Sahih değildir.
+: İcâzetü'l-Mücâz = Hocanın icazet yolu ile aldıklarını rivayet etmesi için birine icazet vermesidir. En sahih tarz budur.
+## 4) Münâvele
+: Münâvele = Hocanın hadislerini içeren kitabını rivayet etmesi için elden talebeye vermesidir.
+: İcâzeye Yakın Münâvele = İcâze muayyenin li-muayyen gibidir. Hocanın kitabını bir talebeye vererek «هذا سماعي فاروه عني» demesidir.
+: İcâzeden Soyutlanmış Münâvele = İcazetten hali olan münâveledir. Hoca talebeye kitabını verir ancak bu kitaptaki hadisleri rivayet etmesi için ona icazet verdiğini söylemez.
+## 5) Mükâtebe
+: Mükâtebe = Hocanın mesmuat veya merviyatından olan hadisleri, yakında veya uzakta olsun, talebesine kendi yazısıyla yazıp göndermesidir.
+- Mükâtebe de **icâzeye yakın** ve **icâzeden soyutlanmış** olarak ikiye ayrılır.
+## 6) İ'lâm
+: İ'lâm = Hocanın hadisi veya kitabı raviye göstererek bunların kendi semâı olduğunu bildirmesi, ancak icazetle ilgili beyanda bulunmamasıdır.
+## 7) Vasiyyet
+: Vasiyyet = Hocanın rivayet ettiği bir kitabı, ölümünden veya seyahate çıkmadan evvel birisine vasiyet etmesi anlamında kullanılan bir tabirdir.
+- İbnü's-Salâh ve Nevevî'ye göre muteber değildir.
+## 8) Vicâde
+: Vicâde = Bulunan bir sahife veya kitaptan semâ, icâzet ve münâvele olmaksızın hadis alıp rivayet etmektir.

@@ -1,0 +1,64 @@
+# Şâz, Münker, Muzdarib ve Muallel Hadis
+> Ravilerin muhalefeti ve teferrüdüne göre şâz ve münker; rivayetteki ihtilafa göre muzdarib; gizli kusura göre muallel hadis.
+## Şâz Hadis
+: Şâz Hadis = Sika veya makbul olan bir ravinin, kendisinden hıfz ve itkan konusunda daha üstün bir veya birçok raviye muhalif hadis rivayet etmesidir.
+- Şâz hadis zayıftır ve merduttur. Burada mahfuz hadis hüccettir.
+- Şazzın zıddı mahfuz hadistir.
+### Şartları
+1. Ravinin sika olması veya makbul olduğu halde rivayetinde teferrüd etmesi.
+2. Kabul edilme noktasında kendisinden daha evlâ olana muhalefet etmesi. (Eğer teâruz giderilirse şâz olmaktan çıkar.)
+### Şâz iki kısımdır
+: Senette Şâz = Sika olan bir ravinin, sikalar arasında meşhur olmuş bir hadisin senedinde muhalefet etmesidir. (İki mürsel aynı, müsned ise teferrüd etse burada mürsel tercih edilir. Çünkü önemli olan iki ravinin birleşmesidir.)
+: Metinde Şâz = Sika ravinin, hadisin lafızlarında kendisinden daha râcih ve sika olan ravilere muhalefet etmesidir.
+### Şazzın tanımları
+- **Hâkim:** Sikanın teferrüt ettiği hadistir. (Muhalefet şartı eksik.)
+- **Halîlî:** Sika veya değil bir ravinin teferrüt ettiği hadistir. (Muhalefet şartı eksik.)
+- **İbn Dakîkü'l-Îd:** Sikaların rivayetine muhalefet etmektir veya zayıf bir ravinin teferrüt ettiği hadistir. (Şâz ve münkeri aynı manada kullandı.)
+### Râvi infirad ederse (İbnü's-Salâh)
+1. **İnfirad ettiği hadis kendisinden daha sika bir ravi ise:** Şâz ve merduttur. Eğer muhalif ravi zayıfsa münkerdir.
+2. **İnfirad ettiği hadisi başkası rivayet etmeyip tek kalması:** Âdil, zabt ve sika ise rivayeti makbuldür, infirad ettiği hadisin değeri düşmez. Sika olmayıp zabtı zayıf ise sahihlik mertebesinden düşer.
+## Münker Hadis
+: Münker Hadis = Zayıf ravinin sika olan bir raviye muhalefet ettiği hadistir.
+- Münker hadis za'fı şedîddir. Dolayısıyla herhangi bir itibar çalışması ile hasen derecesine çıkamaz.
+- Münkerin zıddı ma'ruf hadistir.
+- Ahmed b. Hanbel ve Nesâî'ye göre münker hadis teferrüt edilen hadistir. (Zayıf olma ve muhalefet şartı yok.)
+- İmam Müslim'e göre ise zayıf ravinin teferrüt etmesidir. (Muhalefet şartı yok.)
+### Cerh lafızları
+: «روى المناكير» (Revâ'l-menâkîr) = Diğer rivayetleri terk edilmez.
+: «يروي أحاديث منكرة» (Yervî ehâdîse münkere) = Diğer rivayetleri terk edilmez.
+: «منكر الحديث» (Münkerü'l-hadîs) = Diğer rivayetleri de terk edilir.
+! Hem şazda hem de münkerde muhalefet vardır. Şazda sika veya makbul, münkerde zayıf muhaliftir.
+## Muzdarib Hadis
+: Muzdarib Hadis = İki aynı seviye ravinin, aralarında tercih yapma imkânı olmaksızın farklı bir şekilde rivayet ettiği hadistir.
+### Şartları
+1. İhtilaf vecihleri eşit, biri diğerine tercih edilemez olmalıdır.
+2. Tearuzun giderilememesi gerekir.
+! Bu konudaki tek eser **İbn Hacer**'in **"el-Muktarib fî Beyâni'l-Muztarib"** adlı eseridir.
+### Kısımları
+- **Senette muzdarib:** «إذا عطس أحدكم فليقل: الحمد لله على كل حال، وليقل له: يرحمكم الله، وليقل هو: يهديكم الله ويصلح بالكم» rivayetinde Muhammed b. Abdurrahman b. Ebî Leylâ'nın sahabe tabakasında hem Hz. Ali'den hem de Hz. Ebu Eyyûb el-Ensârî'den rivayet etmesi senetteki ıztıraptır.
+- **Metinde muzdarib:** Hz. Enes'ten rivayet edilen meşhur besmele hadisi.
+### Muzdarib hadisin hükmü
+- İster metinde ister senette olsun ravi veya ravilerin zabtının olmadığını vehmettirmesinden dolayı hadis zayıftır. Mamûlün bih değildir.
+- Eğer ki tek bir ravinin isminde, babasının isminde, nisbesinde olursa ıztırap kaydıyla beraber mamûlün bih olur. (Ma'kıl b. Sinan hadisi)
+## Muallel Hadis
+: Muallel Hadis = Zahiren hadisin sıhhat şartlarını taşıdığı gözüken fakat sıhhatini zedeleyen gizli bir kusur barındıran hadistir.
+- Senette muallel, metinde muallel ve her ikisinde de muallel olabilir.
+### Şartları
+1. Kusurun gizli olması
+2. Kusurun zedeleyici olması
+### İlletin kısımları
+1. **Hadisin zayıflığına sebep olacak zedeleyici illet:** Bu kusur açık olursa munkatı gibi olur. Gizli olursa işte bu muallel hadistir.
+2. **Zedeleyici olmayan kusur:** Bu da hadisin sıhhat derecesine zarar vermez.
+### Tanıma yolları
+1. Tüm senetler toplanmalı
+2. Ravilerin zabt ve hıfz yönünden durumu
+3. Bulundukları tabakanın durumu
+4. Başka karineler toplanmalı
+5. Acele etmeden zann-ı galip ile hüküm vermek
+! **İbn Kesîr:** Cahillere göre bizim bildiklerimiz kehanet hükmündedir.
+### Muallel hadisin hükmü
+- Zayıf ve merdut olan bir hadistir.
+### Eserler
+1. **el-İlel** → Ali b. Medînî
+2. **İlelü'l-Hadîs** → Abdurrahman b. Ebî Hâtim
+3. **el-İlelü'l-Vâride fi'l-Ehâdîsi'n-Nebeviyye** → Dârekutnî

@@ -1,0 +1,846 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Arapça «...» içinde yazılır. Bütün bilgiler kaynak metinden (01–17.txt) alınmıştır.
+
+? 1 | Hadisleri ilk yazıya geçiren kimdir?
++ İbn Şihab ez-Zührî
+- Ömer b. Abdülaziz
+- İmam Malik
+- Ebu Davud et-Tayalisi
+= Tedvin dönemini Ömer b. Abdülaziz başlatmış, hadisleri ilk yazıya geçiren ise İbn Şihab ez-Zührî olmuştur.
+
+? 1 | Tedvin sürecini başlatan halife kimdir?
++ Ömer b. Abdülaziz
+- Hz. Ömer
+- Hz. Osman
+- Hz. Ali
+= Tedvin dönemi hicri 2. yy'da başlamış, süreci Ömer b. Abdülaziz başlatmıştır.
+
+? 1 | En eski müsned kime aittir?
++ Ebu Davud et-Tayalisi
+- Ahmed b. Hanbel
+- İbn Ebi Şeybe
+- Abdurrezzak b. Hemmam
+= Tecrid döneminde merfu hadisler öne çıkmış; en eski müsned Ebu Davud et-Tayalisi'nin müsnedidir.
+
+? 1 | Hadis usulü olarak yazılan ilk müstakil eser hangisidir?
++ el-Muhaddisü'l-Fâsıl beyne'r-Râvî ve'l-Vâî
+- Ma'rifetü Ulûmi'l-Hadîs
+- el-Kifâye fî İlmi'r-Rivâye
+- Mukaddime
+= Mütekaddimûn döneminde ilk müstakil usul eseri Râmhürmüzî'nin el-Muhaddisü'l-Fâsıl beyne'r-Râvî ve'l-Vâî'sidir.
+
+? 1 | Sahabenin hadis rivayetinde uyguladığı kuralların yazılı olduğu ilk eser hangisidir?
++ İmam Şâfiî'nin er-Risâle'si
+- Râmhürmüzî'nin el-Muhaddisü'l-Fâsıl'ı
+- Hâkim'in Ma'rifetü Ulûmi'l-Hadîs'i
+- İmam Malik'in Muvatta'ı
+= Sahabe ve tabiinin büyüklerinin uyguladığı rivayet kurallarının yazılı olduğu ilk eser İmam Şâfiî'nin Risâle'sidir.
+
+? 1 | Hicri 4. asırdan günümüze kadar devam eden, cami ve sünen isimli eserlerin kaleme alındığı, şerh ve haşiyelerin yazıldığı merhale hangisidir?
++ Tertip ve Tehzip (Tasnif) Dönemi
+- Tecrid Dönemi
+- Tedvin Dönemi
+- Hıfz Dönemi
+= Tertip ve tehzip (tasnif) dönemi hicri 4. asırdan günümüze kadar devam eder.
+
+? 1 | Hâkim en-Nîsâbûrî'nin Ma'rifetü Ulûmi'l-Hadîs adlı eseri kaç ana başlık altında yazılmıştır?
++ 52
+- 65
+- 42
+- 49
+= Ma'rifetü Ulûmi'l-Hadîs 52 ana başlık altındadır; İbnü's-Salâh'ın Mukaddime'si ise 65 başlıktır.
+
+? 1 | Aşağıdakilerden hangisi hıfz döneminde kitabet olmamasının sebeplerinden biri değildir?
++ Hadislerin ezberlenmesinin yasaklanması
+- Arapların ümmi bir toplum olması
+- Yazım araç-gereçlerinin az olması
+- Kur'an ile karışmasın diye Peygamber Efendimizin yazımı yasaklaması
+= Kaynakta dört sebep sayılır: Arapların ümmi olması, yazım araçlarının azlığı, Kur'an'a verilen önem ve Kur'an ile karışmasın diye yazımın yasaklanması.
+
+? 2 | Sadece sahabeye nispet edilen şeye ne ad verilir?
++ Eser
+- Haber
+- Sünnet
+- Hadis
+= Eser sadece sahabeye; sünnet sadece Allah Rasulü'ne; haber Allah Rasulü'nden başkasına nispet edilendir.
+
+? 2 | Bildiği hadisler bilmediği hadislerden fazla olan kişiye ne denir?
++ Hafız
+- Hüccet
+- Hâkim
+- Muhaddis
+= Hafız, bildiği hadisler bilmediklerinden fazla olandır. Hüccet ise bilmediği hadis nadir olandır.
+
+? 2 | Aşağıdakilerden hangisi "Emîrü'l-Mü'minîn" unvanını alan muhaddisler arasında sayılmaz?
++ İbnü's-Salâh
+- Süfyan es-Sevrî
+- Dârekutnî
+- İbn Hacer el-Askalânî
+= Kaynakta sayılanlar: Süfyan es-Sevrî, Süfyan b. Uyeyne, Abdullah b. Mübarek, Buhari, Müslim, Dârekutnî, İbn Hacer el-Askalânî.
+
+? 2 | Sünnetin Kur'an'a göre konumunda "mübeyyine" sünnetin kısımları hangileridir?
++ Müfessire, muhassıs, mukayyid
+- Müekkid, vâdıha, münşie
+- Müfessire, müekkid, nâsih
+- Muhassıs, mukayyid, vâdıha
+= Sünnet Kur'an'a göre müekkid, mübeyyine ve vâdıha (münşie) olur; mübeyyine ise müfessire, muhassıs ve mukayyid kısımlarına ayrılır.
+
+? 3 | Mütevatir hadisin senedi ve ricâli neden sorgulanmaz?
++ Âlimlere göre mütevatirde sened sorgulanmaz; bu yüzden mustalahu'l-hadis alanına alınmamıştır.
+- Mütevatir hadislerin hepsi kudsî hadis olduğu için
+- Mütevatir hadislerin senedi bulunmadığı için
+- Mütevatir hadisler yalnızca Buhari'de bulunduğu için
+= Kaynaktaki not: âlimlere göre mütevatir hadisin senedi sorgulanmaz, ricâl bilgisi soruşturulmaz; bu nedenle mustalahu'l-hadis alanına alınmamıştır.
+
+? 3 | «من كذب عليّ متعمدا فليتبوأ مقعده من النار» hadisi hangi tür mütevatire örnektir?
++ Lafzî mütevatir
+- Manevî mütevatir
+- Meşhur
+- Aziz
+= Bütün ravilerin aynı lafzı kullandığı hadis lafzî mütevatirdir; kaynakta örnek olarak bu hadis verilir.
+
+? 3 | Peygamber Efendimiz'in duada ellerini kaldırması hangi tür mütevatire örnektir?
++ Manevî mütevatir
+- Lafzî mütevatir
+- Garib
+- Ferd-i nisbî
+= Her sahabi farklı bir vakıayı aktarır; ortak payda dua ederken elleri kaldırmaktır. Bu manevî mütevatirdir.
+
+? 3 | Katfu'l-Ezhâri'l-Mütenâsire fi'l-Ahbâri'l-Mütevâtire hangi konunun kaynağıdır?
++ Mütevatir hadis
+- Mevzu hadis
+- Meşhur hadis
+- Müselsel hadis
+= Mütevatirin kaynakları: Suyûtî'nin Katfu'l-Ezhâr'ı ve Kettânî'nin Nazmü'l-Mütenâsir'i.
+
+? 3 | "Her garib ferddir, fakat her ferd garib değildir" ifadesine göre hangisi doğrudur?
++ Ferd, garibden daha umumidir.
+- Garib, ferdden daha umumidir.
+- Ferd ve garib tamamen aynıdır.
+- Ferd hadis her zaman sahihtir.
+= Kaynakta "Ferd daha umumidir" denir; ayrıca ferd veya garib hadis sahih, hasen veya zayıf olabilir.
+
+? 3 | İbn Hacer'in taksimine göre "tek kişinin bir belde ehlinden teferrüdü" için kaynakta ne söylenir?
++ Çok nadirdir.
+- İsnad-ı garib bu kısımdır.
+- Ferd-i mutlak bu kısımdır.
+- Mütevatir sayılır.
+= İbn Hacer ferd-i nisbîyi 4 kısma ayırır; üçüncü kısım (tek kişinin bir belde ehlinden teferrüdü) çok nadirdir. İsnad-ı garib birinci kısımdır.
+
+? 4 | Buhari'ye göre en sahih senet hangisidir?
++ Malik b. Enes – Nâfi – Abdullah b. Ömer
+- Zührî – Sâlim b. Abdillah – Abdullah b. Ömer
+- A'meş – İbrahim b. Yezid – Alkame – Abdullah b. Mes'ud
+- Behz b. Hâkim – Hâkim b. Muaviye – Muaviye b. Hayde
+= Buhari'ye göre Malik–Nâfi–İbn Ömer; Ahmed b. Hanbel'e göre Zührî–Sâlim–İbn Ömer; Yahya b. Maîn'e göre A'meş–İbrahim–Alkame–İbn Mes'ud.
+
+? 4 | Ahmed b. Hanbel'e göre en sahih senet hangisidir?
++ Zührî – Sâlim b. Abdillah – Abdullah b. Ömer
+- Malik b. Enes – Nâfi – Abdullah b. Ömer
+- A'meş – İbrahim b. Yezid – Alkame – Abdullah b. Mes'ud
+- Amr b. Şuayb – Şuayb b. Muhammed – Abdullah b. Amr
+= Ahmed b. Hanbel'e göre en sahih senet Zührî – Sâlim b. Abdillah – Abdullah b. Ömer'dir.
+
+? 4 | Buhari ile Müslim arasındaki "muanan rivayet" şartı farkı nedir?
++ Buhari likâ (karşılaşma) şartı arar; Müslim'de muasır olup karşılaşma ihtimali yeterlidir.
+- Müslim likâ şartı arar; Buhari'de muasırlık yeterlidir.
+- İkisi de yalnızca muasırlığı yeterli görür.
+- İkisi de muanan rivayeti hiç kabul etmez.
+= Buhari'nin şartları daha ağırdır: muanan rivayette ravi hocası ile muasır olup karşılaşmış olmalıdır. Müslim'de karşılaşma ihtimali yeterlidir.
+
+? 4 | Sahih-i Müslim mükerrerler hariç kaç hadis içerir?
++ 3031
+- 2337
+- 3956
+- 4340
+= Müslim 3031 (mükerrerlerle 10.000), Buhari 2337 (mükerrerlerle 7123) hadis içerir.
+
+? 4 | İbn Huzeyme, İbn Hibban ve Müstedrek'in sıralanışı hangisidir?
++ İbn Huzeyme → İbn Hibban → Müstedrek
+- İbn Hibban → İbn Huzeyme → Müstedrek
+- Müstedrek → İbn Hibban → İbn Huzeyme
+- İbn Huzeyme → Müstedrek → İbn Hibban
+= Kaynaktaki sıra: İbn Huzeyme'nin Sahihi → İbn Hibban'ın Sahihi → Müstedrek.
+
+? 4 | Hâkim en-Nîsâbûrî'nin Müstedrek'i neden tenkide tabi tutulmuştur?
++ Hadis rivayetinde şartlara riayet etme noktasında mütesâhil davrandığı için
+- Hadisleri senetsiz aktardığı için
+- Yalnızca mevzu hadisleri topladığı için
+- Buhari'nin hadislerini aynen tekrar ettiği için
+= Hâkim şartlara riayette mütesâhil davrandığı için rivayetleri tenkide uğramıştır; sonra 2. cilde kadar tekrar düzenlemiştir.
+
+? 4 | Sadece Buhari üzerine müstahrec yazan kimdir?
++ Ebubekir el-İsmâilî
+- Ebu Nuaym el-İsfahânî
+- Ebu Avâne el-İsferâyînî
+- Hâkim en-Nîsâbûrî
+= Sahihayn üzerine Ebu Nuaym el-İsfahânî, sadece Buhari üzerine Ebubekir el-İsmâilî, sadece Müslim üzerine Ebu Avâne el-İsferâyînî.
+
+? 4 | Sahih hadisin mertebelerinde ilk sırada hangisi yer alır?
++ Müttefekun aleyh
+- Efrâdü'l-Buhârî
+- Buhari'nin şartlarına uygun olan
+- Efrâdü'l-Müslim
+= Mertebeler: müttefekun aleyh, efrâdü'l-Buhârî, efrâdü'l-Müslim, ikisinin şartlarına uygun, Buhari'nin şartlarına uygun, Müslim'in şartlarına uygun, diğerleri.
+
+? 4 | Sahih-i İbn Hibban'ın asıl ismi nedir?
++ et-Tekâsîm ve'l-Envâ'
+- el-Müctebâ
+- Mesâbîhu's-Sünne
+- el-Ehâdîsü'l-Muhtâre
+= İbn Hibban, Hâkim en-Nîsâbûrî'nin hocasıdır; eserinin ismi «التقاسيم والأنواع»dır.
+
+? 5 | Tirmizî "Bu hadis hasendir" dediğinde hadis hangi türdendir?
++ Hasen li-ğayrihî
+- Hasen li-zâtihî
+- Sahih li-zâtihî
+- Zayıf
+= Kaynaktaki not: Tirmizî "Bu hadis hasendir" dediğinde bu hadis hasen li-ğayrihîdir.
+
+? 5 | Dört sünen içerisinde en az zayıf hadis bulunan eser hangisidir?
++ Nesâî'nin Sünen'i
+- İbn Mâce'nin Sünen'i
+- Ebu Davud'un Sünen'i
+- Tirmizî'nin Sünen'i
+= Nesâî (el-Müctebâ) en az zayıf hadis bulunan sünendir. Zayıf hadisin en çok olduğu sünen ise İbn Mâce'dir.
+
+? 5 | Sünenler içinde zayıf hadisin en çok bulunduğu eser hangisidir?
++ İbn Mâce'nin Sünen'i
+- Nesâî'nin Sünen'i
+- Tirmizî'nin Sünen'i
+- Ebu Davud'un Sünen'i
+= İbn Mâce, bablandırılmasının güzelliğiyle öne çıkar; fakat sünenler içinde zayıf hadisin en çok olduğu eserdir.
+
+? 5 | Hasen hadisin en çok bulunduğu eser hangisidir?
++ Tirmizî'nin Sünen'i
+- Nesâî'nin Sünen'i
+- Ahmed b. Hanbel'in Müsned'i
+- İbn Mâce'nin Sünen'i
+= Tirmizî'nin Sünen'inde sahih ve zayıf hadisler olsa da hasen hadisin en çok bulunduğu eserdir.
+
+? 5 | İbn Hacer'e göre "hasen sahih" denen hadis tek tarikle gelmişse ne anlama gelir?
++ Hasen (veya) sahih
+- Hasen (ve) sahih
+- Lügavi manada hasen
+- Hasen ile sahih aynı şeydir
+= İbn Hacer'in muteber görüşü: tek tarikle gelmişse «حسن (أو) صحيح», iki ve daha fazla tarikle gelmişse «حسن (و) صحيح» demektir.
+
+? 5 | Tirmizî'nin "hasen sahih" sözünde hasen ile sahihin aynı şey olduğunu söyleyen âlim kimdir?
++ İbn Dakîkü'l-Îd
+- İbnü's-Salâh
+- İbn Kesîr
+- İbn Hacer
+= İbn Dakîkü'l-Îd'e göre hasenin sahihten aşağıda olması için tek isnadla gelmesi gerekir; bu yüzden bu sözde hasen ile sahih aynıdır.
+
+? 5 | Hadisleri "sıhâh" ve "hisân" diye ikiye ayırdığı için tenkide uğrayan âlim kimdir?
++ Beğavî
+- Tirmizî
+- Hâkim en-Nîsâbûrî
+- İbn Mâce
+= Beğavî Mesâbîhu's-Sünne'de Buhari ve Müslim'i sahih; Ebu Davud, Tirmizî ve Nesâî'yi hasen saymış, bu taksiminden dolayı tenkide uğramıştır.
+
+? 5 | Kütüb-i Sitte'ye İbn Mâce'yi ekleyenler kimlerdir?
++ Müteahhir ulema
+- Mütekaddim ulema
+- Sahabe
+- Tabiin
+= Mütekaddim ulema kaynak kitapları Sahihayn ve diğer üç sünen olarak saymış; müteahhir ulema İbn Mâce'yi ekleyerek Kütüb-i Sitte oluşmuştur.
+
+? 5 | «مُشَبَّه» terimi neyi kapsar?
++ Hasen ve zayıfı
+- Sahih ve haseni
+- Sadece sahihi
+- Münkerin zıddını
+= Müşebbeh hasen ve zayıfı; sâbit/mücevved sahih ve haseni kapsar. Ma'ruf münkerin, mahfuz şazzın zıddıdır.
+
+? 5 | Ebu Davud bir hadis hakkında değerlendirme yapmamışsa hangi kavramı kullanır?
++ Sâlih
+- Ceyyid
+- Kavî
+- Mahfûz
+= Sâlih, sahihi de haseni de kapsayabilir; Ebu Davud değerlendirme yapmadığı hadis için bu kavramı kullanır.
+
+? 6 | İbnü's-Salâh zayıf hadisin kaç nevi olduğunu belirtmiştir?
++ 42
+- 49
+- 52
+- 65
+= İbnü's-Salâh 42 nevi saymış, İbn Hibban 49 neviye çıkarmıştır.
+
+? 6 | Zayıf hadisle hiçbir şekilde amel edilmeyeceğini söyleyenler kimlerdir?
++ Yahya b. Maîn ve Ebubekir b. el-Arabî
+- Ahmed b. Hanbel ve Ebu Davud
+- Ebu Hanife ve İmam Malik
+- Cumhur ulema ve muhaddisler
+= 1. mezhep Yahya b. Maîn ve Ebubekir b. el-Arabî: hiçbir şekilde amel edilmez. 2. mezhep akaid dışında amel eder. 3. mezhep (cumhur) şartlı olarak amel eder.
+
+? 6 | Cumhura göre zayıf hadisle amel etmenin şartlarından biri hangisidir?
++ Za'fı şedid olmayacak.
+- Akaid konusunda olacak.
+- Helal ve haram hükmü içerecek.
+- Kesin bir rivayet gibi düşünülecek.
+= Cumhur akaid ve helal-haram dışında, za'fı şedid olmamak, meşru genel bir hükme bağlı olmak ve kesin rivayet gibi düşünülmemek şartıyla amel eder.
+
+? 6 | İsnadsız zayıf hadis rivayet edilirken nasıl lafızlar kullanılmalıdır?
++ «رُوِيَ كذا / بلغنا كذا» gibi temriz sîgaları
+- «حدّثنا / أخبرنا» gibi kesin sîgalar
+- «قال رسول الله» ifadesi
+- Hiçbir lafız kullanılmamalı
+= İsnadsız zayıf hadis rivayetinde «رُوِيَ كذا / بلغنا كذا / ورد كذا» gibi temriz sîgaları kullanılmalıdır.
+
+? 6 | Silsiletü'z-Zeheb ne kadar kuvvetliyse o kadar zayıf olan senedin son halkası kimdir?
++ Abdullah b. Abbas
+- Abdullah b. Ömer
+- Ebu Hureyre
+- Abdullah b. Mes'ud
+= Senet: es-Süddî es-Sağîr – el-Kelbî – Ebu Salih Bâzâm – Abdullah b. Abbas.
+
+? 6 | Nevâdirü'l-Usûl adlı eserin sahibi Hakîm et-Tirmizî hakkında kaynakta hangi niteleme yer alır?
++ Mutasavvıf olan
+- Sünen sahibi olan
+- Kütüb-i Sitte musannifi
+- Müstedrek sahibi
+= Kaynak, Sünen sahibi Tirmizî ile karışmaması için Hakîm et-Tirmizî'yi "mutasavvıf olan" diye niteler.
+
+? 7 | Hem merfu hem de muttasıl olan hadise ne denir?
++ Müsned
+- Mevkuf
+- Maktu
+- Mürsel
+= Müsned hem merfu hem muttasıldır. Her müsned muttasıl ve merfudur; fakat her muttasıl veya her merfu müsned değildir.
+
+? 7 | Kur'an ile kudsî hadis arasındaki farklardan biri hangisidir?
++ Kur'an hem lafız hem mana itibariyle Allah'a aittir.
+- Kudsî hadisin lafzı da Allah'a aittir.
+- Kudsî hadisin sübutu katidir.
+- Kudsî hadis benzerini getirmekten aciz bırakır.
+= Kudsî hadisin lafzı Efendimiz'e, manası Allah'a aittir. Kur'an ise lafız ve mana olarak Allah'a aittir, meydan okur ve sübutu katidir.
+
+? 7 | Sahabe ihtilaf ettiğinde mevkuf hadisin hüccet olmadığını söyleyen kimdir?
++ İmam Şâfiî
+- Cumhur
+- İmam Malik
+- Ahmed b. Hanbel
+= Sahabe icma ettiyse hüccettir; ihtilaf ettiyse Şâfiî dışında cumhura göre yine hüccettir.
+
+? 7 | Aşağıdaki sahabe ifadelerinden hangisi hükmen merfu sayılmaz?
++ Mutlak olarak "biz şöyle yapardık" demesi
+- "Emrolunduk" demesi
+- "Bu sünnettendir" demesi
+- "Peygamber zamanında şöyle yapardık" demesi
+= İbnü's-Salâh ve Hatîb el-Bağdâdî'ye göre mutlak "biz şöyle yapardık" hükmen merfu olmaz; "Peygamber zamanında" kaydı konursa hükmen merfudur.
+
+? 7 | Sahabenin içtihadla söylemesi mümkün olmayan sözü hangi durumda gayb konusunda hükmen merfu sayılmaz?
++ O sahabenin ehl-i kitaptan rivayet etmesi meşhursa
+- Söz esbâb-ı nüzûl ile ilgiliyse
+- Sahabe "emrolunduk" demişse
+- Ravi «يرفعه» lafzını kullanmışsa
+= Bir sahabenin ehl-i kitaptan rivayet etmesi meşhursa gayb konusunda hükmen merfu diyemeyiz.
+
+? 7 | Genel görüşe göre maktu hadis hüccet midir?
++ Hayır, hüccet değildir.
+- Evet, mutlak hüccettir.
+- Sadece Şâfiî'ye göre hüccettir.
+- Sahabe icma ederse hüccettir.
+= Mevkuf hadis (sahabe icma ettiyse) hüccettir; maktu hadis ise genel görüşe göre hüccet değildir.
+
+? 8 | Mürsel hadisin mutlak olarak hüccet olduğunu söyleyenler kimlerdir?
++ Cumhur fukaha ve müçtehitler
+- Cumhur muhaddisler
+- İmam Şâfiî
+- İbnü's-Salâh
+= Cumhur muhaddislere göre mürsel zayıftır; cumhur fukaha ve müçtehitlere göre mutlak hüccettir; İmam Şâfiî'ye göre kibâr-ı tâbiînden gelenler hüccettir.
+
+? 8 | Medine'de mürsel hadis rivayet eden en meşhur tabii kimdir?
++ Said b. Müseyyeb
+- Atâ b. Ebî Rebâh
+- Hasan-ı Basrî
+- İbrahim en-Nehaî
+= Medine: Said b. Müseyyeb; Mekke: Atâ b. Ebî Rebâh; Mısır: Said b. Ebî Hilâl; Şam: Mekhûl; Basra: Hasan-ı Basrî; Kûfe: İbrahim en-Nehaî.
+
+? 8 | Basra'da mürsel hadis rivayet eden en meşhur tabii kimdir?
++ Hasan-ı Basrî
+- Mekhûl ed-Dımeşkî
+- Said b. Ebî Hilâl
+- Said b. Müseyyeb
+= Basra'da mürsel rivayet eden en meşhur tabii Hasan-ı Basrî'dir.
+
+? 8 | Cumhura göre sahabe mürseli neden hüccettir?
++ Sahabe genellikle bir sahabeden nakil yapar ve bütün sahabe udûldür.
+- Sahabe mürselinde senet her zaman muttasıldır.
+- Sahabe mürseli mütevatir sayılır.
+- Sahabe hiçbir zaman tabiinden rivayet etmez.
+= Bir sahabe genellikle bir sahabeden nakleder; bütün sahabe udûl olduğundan sorun teşkil etmez. Tabiinden rivayet etseydi bunu belirtirdi.
+
+? 8 | Munkatı hadise "maktu" diyen âlim kimdir?
++ İmam Şâfiî
+- İbnü's-Salâh
+- İbn Hacer
+- Hâkim en-Nîsâbûrî
+= İmam Şâfiî munkatıyı maktu diye isimlendirmiştir; bazıları da bizim maktu dediğimize munkatı demiştir.
+
+? 8 | Sahih-i Müslim'de kaç muallak hadis vardır?
++ 14
+- 4
+- 42
+- 52
+= Müslim'de sadece 14 muallak hadis vardır; İmam Nevevî şerhinde bunların ittisalini ispat etmiştir.
+
+? 8 | Buhari'nin muallak hadislerinin ittisalini tespit eden eser hangisidir?
++ İbn Hacer'in Tağlîku't-Ta'lîk'i
+- İbn Abdilberr'in et-Temhîd'i
+- Nevevî'nin el-Minhâc'ı
+- el-Alâî'nin Câmiu't-Tahsîl'i
+= İbn Hacer, Tağlîku't-Ta'lîk'te Buhari'nin muallaklarının ittisalini başka tariklerle tespit etmiştir.
+
+? 8 | Senedin başından iki veya daha fazla ravi peşpeşe düşerse hadis nasıl adlandırılır?
++ Hem mu'dal hem muallak
+- Sadece munkatı
+- Mürsel-i hafî
+- Müdelles
+= Mu'dal ve muallak farkları: senedin başından iki veya daha fazla düşerse hem mu'dal hem muallaktır.
+
+? 8 | İmam Malik'in Muvatta'ındaki «بلغني» rivayetlerinin dördü hariç ittisalini ispat eden kimdir?
++ İbn Abdilberr
+- İbn Hacer
+- İmam Nevevî
+- Suyûtî
+= İbn Abdilberr, et-Temhîd'de Muvatta'daki belâğların dört hadis hariç hepsinin ittisalini ispat etmiştir.
+
+? 9 | Ravinin, birbiriyle karşılaşmış iki sika arasındaki zayıf raviyi düşürerek rivayet etmesine ne denir?
++ Tedlîsü't-tesviye
+- Tedlîsü'l-kat'
+- Tedlîsü'l-atf
+- Tedlîsü'ş-şuyûh
+= Tesviye: iki sika ravi arasındaki zayıf raviyi düşürüp iki sika arasında rivayet edilmiş izlenimi vermektir.
+
+? 9 | Talebelerini imtihan etmek için yapılan tedlisin hükmü nedir?
++ Doğrusunu söyleme kaydıyla caizdir.
+- Haramdır.
+- Mekruhtur.
+- Kişinin adaletini düşürür.
+= Makbul olmayan hadisi gizlemek için yapılan tedlis haram, yaşça küçük raviyi gizlemek mekruh, imtihan için yapmak (doğrusunu söyleme kaydıyla) caizdir.
+
+? 9 | "Endülüs deyip Karafe'de bir sokağı kastetmek" hangi tedlis türüne örnektir?
++ Tedlîsü'l-bilâd
+- Tedlîsü't-tesviye
+- Tedlîsü'l-atf
+- Tedlîsü'l-kat'
+= Tedlîsü'l-bilâd, tedlîsü'ş-şuyûhun altında yer alır: bir belde ismi verip başka yerdeki bir sokağı veya köyü kastetmektir.
+
+? 9 | Tedlîsü'l-isnad ile mürsel-i hafî arasındaki temel fark nedir?
++ Müdelleste ravi o kişiden başka hadis işitmiştir; mürsel-i hafîde hiçbir şey işitmemiştir.
+- Mürsel-i hafîde ravi o kişiden başka hadis işitmiştir.
+- İkisi arasında hiçbir fark yoktur.
+- Müdelleste ravi ile hocası muasır değildir.
+= Müdelleste işitmiş olabilir vehmi vardır; mürsel-i hafîde (bu bilindiğinde) o ihtimal yoktur.
+
+? 9 | Mürsel-i hafînin munkatıdan farkı nedir?
++ Mürsel-i hafîde ravi ile rivayet ettiği kişi muasırdır; munkatıda muasır değildir.
+- Munkatıda ravi ile rivayet ettiği kişi muasırdır.
+- Mürsel-i hafî sahabe tabakasında olur.
+- Munkatı hadis hükmen merfudur.
+= Mürsel-i hafîde ravi muasır olduğu fakat likâ veya semâ olmayan kişiden rivayet eder; munkatıda ise muasırlık yoktur.
+
+? 9 | Ta'rîfü Ehli't-Takdîs bi-Merâtibi'l-Mevsûfîn bi't-Tedlîs kimin eseridir?
++ İbn Hacer el-Askalânî
+- Şemseddin ez-Zehebî
+- Burhaneddin Ebu'l-Vefâ
+- Hatîb el-Bağdâdî
+= Müdelles hadis eserleri: Zehebî'nin Manzûme'si, Burhaneddin Ebu'l-Vefâ'nın et-Tebyîn'i ve İbn Hacer'in Ta'rîfü Ehli't-Takdîs'i.
+
+? 10 | Şaz ile münker arasındaki fark nedir?
++ Şazda sika veya makbul ravi, münkerde zayıf ravi muhalefet eder.
+- Şazda zayıf ravi, münkerde sika ravi muhalefet eder.
+- Şazda muhalefet yoktur, münkerde vardır.
+- İkisi de mahfuz hadisin zıddıdır.
+= Hem şazda hem münkerde muhalefet vardır. Şazda sika veya makbul, münkerde zayıf muhaliftir.
+
+? 10 | Hangi cerh lafzında ravinin diğer rivayetleri de terk edilir?
++ «منكر الحديث»
+- «روى المناكير»
+- «يروي أحاديث منكرة»
+- «صدوق»
+= «روى المناكير» ve «يروي أحاديث منكرة» denilen ravinin diğer rivayetleri terk edilmez; «منكر الحديث» denilenin ise diğer rivayetleri de terk edilir.
+
+? 10 | Muzdarib hadis konusundaki tek eser hangisidir?
++ İbn Hacer'in el-Muktarib fî Beyâni'l-Muztarib'i
+- Dârekutnî'nin el-İlel'i
+- Suyûtî'nin el-Medrec'i
+- Hatîb'in el-Fasl li'l-Vasl'ı
+= Kaynakta muzdarib hakkındaki tek eserin İbn Hacer'in el-Muktarib fî Beyâni'l-Muztarib'i olduğu belirtilir.
+
+? 10 | Hz. Enes'ten rivayet edilen meşhur besmele hadisi neye örnektir?
++ Metinde muzdarib
+- Senette muzdarib
+- Metinde müdrec
+- Senette maklûb
+= Kaynakta metinde muzdarib örneği olarak Hz. Enes'ten rivayet edilen besmele hadisi verilir.
+
+? 10 | Muallel hadisin şartları nelerdir?
++ Kusurun gizli ve zedeleyici olması
+- Kusurun açık ve zedeleyici olması
+- Kusurun gizli ve zedeleyici olmaması
+- Senedin munkatı olması
+= Muallelin şartları: kusurun gizli olması ve zedeleyici olması. Kusur açık olursa munkatı gibi olur.
+
+? 10 | Muallel hadis bahsinde "Cahillere göre bizim bildiklerimiz kehanet hükmündedir" diyen âlim kimdir?
++ İbn Kesîr
+- İbn Hacer
+- Ali b. Medînî
+- Dârekutnî
+= Muallel hadisin tanıma yollarından sonra İbn Kesîr'in bu sözü aktarılır.
+
+? 10 | Şazzı "sikanın teferrüt ettiği hadis" diye tanımlayan (muhalefet şartını aramayan) âlim kimdir?
++ Hâkim
+- İbn Dakîkü'l-Îd
+- İbnü's-Salâh
+- İmam Müslim
+= Hâkim'e göre şaz sikanın teferrüt ettiği hadistir; Halîlî'ye göre sika olsun olmasın bir ravinin teferrüdüdür. İkisinde de muhalefet şartı eksiktir.
+
+? 11 | Hadis uyduranın mürtet olduğunu söyleyen âlim kimdir?
++ İmam Cüveynî
+- İbnü'l-Cevzî
+- Suyûtî
+- Ali el-Kârî
+= İmam Cüveynî'ye göre hadis uyduran mürtettir; cumhura göre helal görmediği takdirde mürtet değil fasıktır.
+
+? 11 | Mevzu hadisi rivayet etmek hangi durumda sakıncalı değildir?
++ Mevzu olduğunu bildirmek için aktarıyorsa
+- Teşvik ve korkutma amacıyla aktarıyorsa
+- Sadece fazilet konusunda aktarıyorsa
+- Senedini zikrederek aktarıyorsa
+= Mevzu hadisi bile bile rivayet etmek haramdır; fakat mevzu olduğunu bildirmek için aktarmakta sıkıntı yoktur.
+
+? 11 | «لو أحسن أحدكم الظن بحجر لنفعه» uydurmasının sebebi olarak kaynakta hangisi gösterilir?
++ İslam'a ilave (zındıkların kini)
+- Nüfuzlu kişilere yanaşmak
+- Kıssa yoluyla kazanç
+- Doğruya rücu etmekten kibirlenmek
+= Zındıklar İslam'a karşı içlerindeki kinden dolayı ilave yaparlar; kaynakta bu söz örnek verilir.
+
+? 11 | "Küçük bir günaha büyük bir azap" vaadi uydurma hadisi bilme yollarından hangisine girer?
++ Mübalağalı karşılıklar
+- Mana düşüklüğü
+- Hisse ve müşahedeye ters düşmesi
+- Uyduranın ikrarı
+= Küçük günaha büyük azap ya da küçük amele büyük ödül, mübalağalı karşılıklar kısmındandır.
+
+? 11 | Tenzîhü'ş-Şerîati'l-Merfûa adlı eserin müellifi kimdir?
++ İbn Irâk
+- Suyûtî
+- İbnü'l-Cevzî
+- Ali el-Kârî
+= İbn Irâk'ın eseri ale'l-ebvâb düzenlenmiş ve 3 fasıldan oluşur.
+
+? 11 | Suyûtî'nin el-Leâli'l-Masnûa adlı eseri hangi eserin muhtasarıdır?
++ İbnü'l-Cevzî'nin el-Mevzûât'ı
+- el-Cûzekânî'nin el-Ebâtîl'i
+- İbn Irâk'ın Tenzîhü'ş-Şerîa'sı
+- Ali el-Kârî'nin el-Mevzûâtü'l-Kübrâ'sı
+= el-Leâli'l-Masnûa İbnü'l-Cevzî'nin eserinin muhtasarıdır; Zeylü'l-Leâlî ise İbnü'l-Cevzî'nin almadığı mevzuları toplar.
+
+? 11 | Uydurmaya karşı rivayette tesebbüt (ihtiyat) ne zaman başlamıştır?
++ Hz. Osman zamanındaki fitnelerden dolayı erken dönemde
+- Hicri 4. asırda tasnif döneminde
+- Ömer b. Abdülaziz'in tedvin emriyle
+- İbnü's-Salâh'ın Mukaddime'sinden sonra
+= Hz. Osman zamanındaki fitnelerden dolayı bu ihtiyat erken dönemde başlamıştır.
+
+? 12 | Müdrec hadiste idrac en çok nerede meydana gelir?
++ Metinde
+- Senette
+- Sahabe tabakasında
+- Hadisin başında
+= Çoğu idrac metinde meydana gelir; senedde idrac azdır. Metinde başta, ortada ve sonda olabilir.
+
+? 12 | Kasten îham ve iğrâb için idrac yapan ravinin hükmü nedir?
++ Adalet vasfı düşer ve yalanla itham edilir.
+- Hatasını tekrar etmedikçe sorun yoktur.
+- Müsamaha gösterilir.
+- Caizdir.
+= Garip lafzı açıklamaya müsamaha gösterilir; hata ile yapılan, tekrar edilmezse sorun değildir; kasten yapılırsa ravi kezzâblara ilhak olur.
+
+? 12 | «اليد العليا خير من اليد السفلى» hadisinde müdrec olan kısım kimin sözüdür?
++ Abdullah b. Ömer
+- Abdullah b. Abbas
+- Ebu Hureyre
+- Hz. Enes
+= «واليد العليا هي المنفقة والسفلى هي السائلة» kısmı müdrectir ve Abdullah b. Ömer'in sözüdür.
+
+? 12 | Âlimlerin Buhari'ye yaptığı imtihan hangi tür maklûba örnektir?
++ Senetlerin başka metinlerle kalbi
+- Ravinin ismini kalb etme
+- Ravinin bir diğer ravi ile ibdâli
+- Metinde maklûb
+= Bir metnin senedini başka metne koyup ilk metni ikincinin senediyle zikretmek; Buhari'ye yapılan imtihan bu şekildedir.
+
+? 12 | "Muhammed b. İsmail" ismini "İsmail b. Muhammed" diye zikretmek neye örnektir?
++ Senette maklûb (ravinin ismini kalb etme)
+- Metinde maklûb
+- Musahhaf
+- Tedlîsü'ş-şuyûh
+= Senette maklûbun ikinci kısmı ravinin ismini kalb etmedir.
+
+? 12 | Bir kez yapılan ve doğrusu açıklanan imtihan amaçlı kalbin hükmü nedir?
++ Caizdir.
+- Haramdır.
+- Ravinin adaletini düşürür.
+- Hadisi mevzu yapar.
+= İmtihan için olursa çok kez tekrarlanmamak ve doğrusu açıklanmak şartıyla caizdir. İğrâb için yapılırsa adalet gider.
+
+? 13 | Ravilerin şeyhlerinde değil de daha üst bir tabakada birleşmesine ne denir?
++ Nâkıs mütâbaat
+- Tam mütâbaat
+- Şâhid
+- İtibar
+= Raviler şeyhlerinde birleşirse tam, daha üstte birleşirse nâkıs mütâbaat olur.
+
+? 13 | Bir sahabenin rivayet ettiği hadisin başka bir sahabenin rivayetiyle mana veya lafız yönünden muvafık olmasına ne denir?
++ Şâhid
+- Mütâbaat
+- İtibar
+- Müstahrec
+= Mütâbaatta sahabe aynı kişidir; şâhidde ise farklı bir sahabenin rivayeti söz konusudur.
+
+? 13 | Mütâbaat ve şâhidleri bir hadiste ve tek bir yerde zikretmesiyle diğer kitaplardan ayrılan eser hangisidir?
++ Sahih-i Müslim
+- Sahih-i Buhari
+- Sünen-i Ebu Davud
+- Müsned-i Ahmed
+= Kaynaktaki not: Müslim'in Sahih'i bu özelliğiyle diğer kitaplardan ayrılmıştır.
+
+? 13 | İbnü's-Salâh'a göre sika ravinin ziyadesi metinlere muhalifse hükmü nedir?
++ Ziyade şazdır.
+- Ziyade makbuldür.
+- Mutlak kabul edilir.
+- Tevakkuf edilir.
+= İbnü's-Salâh'a göre metinlere muhalif ziyade şazdır, muhalif değilse makbuldür.
+
+? 13 | Muttasıl senetteki ziyadeli isnadın merdud olması için hangi şart aranır?
++ Ziyadeyi bırakan ravinin daha zâbıt olması ve «سمعت» lafzıyla aktarması
+- Ziyade yapan ravinin sahabe olması
+- Hadisin mütevatir olması
+- Ziyadenin metinde olması
+= İki şart: bu raviden daha zâbıt ve mütkin olması ve «سمعت» lafzıyla aktarması.
+
+? 14 | Buhari ve Ali b. Medînî'ye göre muanan hadis hangi şartla muttasıl sayılır?
++ Ravi müdellis olmayıp ravi ile şeyh arasında likâ varsa
+- Ravi ile şeyh arasında imkânü'l-likâ varsa
+- Hadis mütevatirse
+- Hiçbir şekilde muttasıl sayılmaz
+= Buhari ve Ali b. Medînî likâ şartı arar; İmam Müslim gibileri imkânü'l-likâyı yeterli görür.
+
+? 14 | Cumhura göre müennen hadisin hükmü nedir?
++ Muanan hadisin hükümlerine tabidir.
+- Her zaman munkatıdır.
+- Her zaman muttasıldır.
+- Mevzu hükmündedir.
+= Bazıları muanan ittisali, müennen inkıtaı ifade eder dese de cumhura göre müennen de muanan hükümlerine tabidir.
+
+? 14 | Müselsel hadiste teselsül neyle ilgilidir?
++ Sadece isnatla
+- Sadece metinle
+- Hem metin hem isnatla
+- Sahabenin sayısıyla
+= Teselsülün metinle bir alakası yoktur; sadece isnat ile alakalıdır.
+
+? 14 | Peygamber Efendimiz'e en yakın olan sahih ve muttasıl isnada ne denir?
++ Mutlak uluv (sülâsiyat)
+- Nisbî uluv
+- Müsâvât
+- Musâfaha
+= Mutlak uluv Peygamber Efendimiz'e en yakın sahih ve muttasıl hadistir; sülâsiyat diye de isimlendirilir.
+
+? 14 | Raviler sayısı İmam Nevevî'nin hocasından itibaren sayıldığında Buhari'ninkine eşit olursa buna ne denir?
++ Musâfaha
+- Müsâvât
+- Muvâfakat
+- Bedel
+= Nevevî'nin kendi senedi eşitse müsâvât; hocasından itibaren eşitse musâfaha denir.
+
+? 14 | Âlî isnat neden rağbet edilen bir durumdur?
++ Ravi ne kadar az ise hata ihtimali o kadar az olur.
+- Ravi sayısı arttıkça hadis mütevatir olur.
+- Âlî isnatta bütün raviler sahabedir.
+- Âlî isnat her zaman müselseldir.
+= Âlî isnat sahihe en yakındır; çünkü ravi az olunca hata ihtimali de azalır.
+
+? 15 | Garîbü'l-hadis alanında en-Nihâye fî Garîbi'l-Hadîs ve'l-Eser kimin eseridir?
++ İbnü'l-Esîr el-Cezerî
+- Zemahşerî
+- Suyûtî
+- İbn Kuteybe
+= Zemahşerî el-Fâik'i, İbnü'l-Esîr en-Nihâye'yi yazmış; Suyûtî de en-Nihâye'yi ed-Dürrü'n-Nesîr'de telhis etmiştir.
+
+? 15 | Neshi bilme yollarından "Efendimiz'in açıklaması" için kaynakta verilen örnek nedir?
++ Kabir ziyareti
+- Kıblenin değişmesi
+- Mut'a nikâhı
+- İki kulle hadisi
+= Kaynakta Efendimiz'in açıklaması ile bilinen nesh için kabir ziyareti örneği verilir.
+
+? 15 | İcma ile nesh hakkında kaynakta hangi kayıt yer alır?
++ Bizatihi icma değil, icmanın delili nesh eder.
+- İcma doğrudan nesh eder.
+- İcma ile nesh olmaz.
+- Sadece sahabe icması nesh eder.
+= Neshi bilme yollarından dördüncüsü icmadır; fakat icmanın delili nesh eder, bizatihi icma değil.
+
+? 15 | İki kulle hadisi ile "su temizdir, onu tadı, rengi veya kokusu değişmedikçe hiçbir şey kirletmez" hadisi hangi ilmin konusuna örnektir?
++ Muhtelefü'l-hadis
+- Müşkilü'l-hadis
+- Nâsih-mensûh
+- Garîbü'l-hadis
+= Zahiren birbirine aykırı iki makbul hadisin cem edilmesi muhtelefü'l-hadisin konusudur.
+
+? 15 | «من تقرّب إليّ شبرا تقرّبت منه ذراعا» hadisi hangi ilmin konusuna örnektir?
++ Müşkilü'l-hadis
+- Muhtelefü'l-hadis
+- Fıkhu'l-hadis
+- Nâsih-mensûh
+= Allah hakkında teşbih vehmettiren metin müşkilü'l-hadisin konusudur.
+
+? 15 | Değişiklik noktalamada olursa ne denir?
++ Musahhaf
+- Muharref
+- Maklûb
+- Müdrec
+= Noktalamadaki değişiklik musahhaf, şekildeki (kelimedeki) değişiklik muharreftir.
+
+? 15 | Tashîf genellikle kimlerde meydana gelir?
++ Kitaptan alan kişilerde
+- Hocadan dinleyen kişilerde
+- Sahabede
+- Hafızlarda
+= Tashîf genelde kitaptan alanlarda olur; çok olmadıkça ravinin zabtına zarar vermez.
+
+? 15 | Müşkil ve muhtelefü'l-hadisi ayırmayıp tek kitapta toplayan eserlerden Müşkilü'l-Âsâr kimindir?
++ Tahâvî
+- İbn Kuteybe
+- İbn Fûrek
+- Hâzimî
+= Eserler: İbn Kuteybe'nin Te'vîlü Muhtelifi'l-Hadîs'i, İbn Fûrek'in Müşkilü'l-Hadîs'i, Tahâvî'nin Müşkilü'l-Âsâr'ı.
+
+? 16 | Ravinin hem cerh hem de ta'dil edildiği durumda cerhin öne geçmesi için aranan şartlardan biri hangisidir?
++ Cerh müfesser olacak.
+- Cerh sebebi zikredilmeyecek.
+- Cârih mütesâhil olacak.
+- Ta'dil yapan cerh sebebini çürütecek.
+= Şartlar: cerh müfesser olacak, cârih müteşeddit olmayacak, ta'dil eden cerh sebebini çürütecek bir şey söylemeyecek.
+
+? 16 | "Ta'dilde icmal, cerhte tafsil" kaidesi ne anlama gelir?
++ Ta'dil sebebi zikredilmeden kabul edilir, cerh sebebi zikredilmeden kabul edilmez.
+- Cerh sebebi zikredilmeden kabul edilir, ta'dil edilmez.
+- İkisinde de sebep zikretmek gerekmez.
+- İkisinde de sebep zikretmek şarttır.
+= Bazı âlimler teşeddüt, bazıları tesâhül sahibi olduğundan cerhin sebebi açıklanmalıdır.
+
+? 16 | Kendi halinde yaşayan, adalet ve zabt sahibi bid'at-i gayr-i mükeffira ehlinin rivayeti nasıldır?
++ Makbuldür.
+- Merduttur.
+- Tevakkuf edilir.
+- Sadece akaidde kabul edilir.
+= Yalanı mübah görenin ve davet-propaganda yapanın rivayeti merduttur; kendi halinde yaşayan, adalet ve zabt sahibi ise makbuldür.
+
+? 16 | Muhtelit ravinin rivayet zamanı bilinmiyorsa ne yapılır?
++ Tevakkuf edilir.
+- Rivayeti kabul edilir.
+- Rivayeti reddedilir.
+- Hasen sayılır.
+= Aklı karışmadan önceki rivayetler makbul, sonrakiler merduttur; zamanı bilinmeyenlerde tevakkuf edilir.
+
+? 16 | Cumhura göre «حدّثني الثقة» şeklindeki ibhâm ile ta'dil kabul edilir mi?
++ Hayır, kabul edilmez.
+- Evet, mutlak kabul edilir.
+- Sadece sahabe için kabul edilir.
+- Sadece Buhari'de kabul edilir.
+= Cumhura göre kabul edilmez; bir müçtehit söylemişse o mezhebin müntesipleri için hüccettir, başkası aleyhine hüccet olmaz.
+
+? 16 | İki veya daha fazla kişinin rivayeti bulunan, cerh ve ta'dil yapılmayan hocaya ne denir?
++ Mechûlü'l-hâl (mestur)
+- Mechûlü'l-ayn
+- Muhtelit
+- Mübtedi'
+= Mechûlü'l-ayn rivayetinde tek kalınan hocadır; mechûlü'l-hâl (mestur) ise iki veya daha fazla kişinin rivayeti bulunandır.
+
+? 16 | Müteahhir ulemaya göre ta'dilin en üst mertebesi hangisidir?
++ Mübalağa veya «أفعل» vezni kullanılması («أوثق» gibi)
+- «ثقة ثقة» tekidi
+- «لا يُسأل عنه» ibaresi
+- «صدوق» lafzı
+= Ta'dil mertebeleri: 1) «أفعل» vezni, 2) «لا يُسأل عنه», 3) «ثقة ثقة», 4) «ثقة», 5) «لا بأس به – صدوق...», 6) «شيخ وسط...».
+
+? 16 | Hangi cerh mertebelerindeki raviler itibar çalışması ile hasen li-ğayrihî olabilir?
++ Beşinci ve altıncı
+- Birinci ve ikinci
+- İkinci ve üçüncü
+- Üçüncü ve dördüncü
+= Kaynaktaki not: beşinci ve altıncı kısım itibar çalışması ile hasen li-ğayrihî olabilir.
+
+? 16 | Hadisle ilgili yalan söyleyip nasuh tevbesi eden kişinin rivayeti nasıldır?
++ Artık kabul edilmez.
+- Tevbeden sonra kabul edilir.
+- Hasen sayılır.
+- Sadece fazilet konularında kabul edilir.
+= Dünyalık bir yalandan tevbe edenin rivayeti kabul edilir; hadisle ilgili yalan söyleyenin ise nasuh tevbesi etse de rivayeti kabul edilmez.
+
+? 16 | Mîzânü'l-İ'tidâl kimin eseridir?
++ Şemseddin ez-Zehebî
+- İbn Hacer
+- İbn Ebî Hâtim er-Râzî
+- Ukaylî
+= Cerh-ta'dil eserleri: es-Sikât (İbn Hibbân), Mîzânü'l-İ'tidâl (Zehebî), el-Cerh ve't-Ta'dîl (İbn Ebî Hâtim), Lisânü'l-Mîzân (İbn Hacer), ed-Duafâü'l-Kebîr (Ukaylî).
+
+? 17 | Cumhura göre tahammül yollarından en muteber olanı hangisidir?
++ Semâ
+- Arz (kırâat)
+- İcâze
+- Münâvele
+= Semâ cumhura göre en muteber mertebedir; «حدّثنا – أخبرنا – سمعت» gibi lafızlar kullanılır.
+
+? 17 | Tahammül için hangi şart yeterlidir?
++ Mümeyyiz olmak
+- Bâliğ olmak
+- Edâ ehliyetine ulaşmak
+- Hafız olmak
+= Tahammülde mümeyyiz olmak yeterlidir, bâliğ olma şartı yoktur; edâda ise edâ ehliyeti aranır.
+
+? 17 | Talebenin hocasına hadisleri okumasına ne ad verilir?
++ Arz (kırâat)
+- Semâ
+- İmlâ
+- İ'lâm
+= Arz, talebenin hocaya okumasıdır; kitaptan veya ezberden olması arasında fark yoktur.
+
+? 17 | İcâze çeşitlerinden en sahih tarz hangisidir?
++ İcâzetü'l-mücâz
+- İcâze li'l-ma'dûm
+- İcâze li'l-mechûl bi'l-mechûl
+- İcâze mâ lem yetehammelhu
+= Hocanın icazet yoluyla aldıklarını rivayet etmesi için icazet vermesi (icâzetü'l-mücâz) en sahih tarzdır.
+
+? 17 | İbnü's-Salâh ve Nevevî'ye göre muteber olmayan tahammül yolu hangisidir?
++ Vasiyyet
+- Semâ
+- Mükâtebe
+- Münâvele
+= Hocanın ölümünden veya seyahatten önce kitabını birine vasiyet etmesi; İbnü's-Salâh ve Nevevî'ye göre muteber değildir.
+
+? 17 | Hocanın kitabını talebeye vererek «هذا سماعي فاروه عني» demesi hangi tahammül yoludur?
++ İcâzeye yakın münâvele
+- İcâzeden soyutlanmış münâvele
+- Vicâde
+- İ'lâm
+= İcâzeye yakın münâvele, icâze muayyenin li-muayyen gibidir.
+
+? 17 | Bulunan bir sahife veya kitaptan semâ, icâzet ve münâvele olmaksızın hadis alıp rivayet etmeye ne denir?
++ Vicâde
+- Vasiyyet
+- İ'lâm
+- Mükâtebe
+= Bu, tahammül yollarının sekizincisi olan vicâdedir.

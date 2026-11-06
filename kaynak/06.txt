@@ -1,0 +1,33 @@
+# Zayıf Hadis
+> Zayıf hadisin tanımı ve çeşitleri, zayıf hadisle amel konusundaki üç görüş, zayıf hadisle ilgili meseleler ve zayıf hadislerin bulunduğu kaynaklar.
+## Tanım
+: Zayıf Hadis = Kabul sıfatlarını tamamlamamış hadis türüdür. «هو الحديث الذي لم يستكمل صفات القبول»
+## Zayıf hadisin çeşitleri
+- İbnü's-Salâh zayıf hadisin 42 nevi olduğunu belirtmiştir. İbn Hibban 49 neviye çıkarmıştır.
+- Zayıf hadisin çeşitleri olarak mürsel, münkatı, muallak, mu'dal, müdelles, mürsel-i hafî, şaz, münker, muzdarib, metruk, muallel, maklûb gibi hadisleri sayabiliriz.
+## Derece farkları ve en zayıf senet
+- Bir hadisin zayıflık derecesi ne kadar az olursa o kadar hasen li-ğayrihî olması kolaylaşır.
+- Bu bağlamda en önemli husus ravinin adalet vasfı ve kesretü'l-hatadır. Eğer kişi adalet vasfını kaybetmiş veya çok hata yapıyorsa bu ravinin rivayeti asla hasen olamaz.
+! Silsiletü'z-Zeheb ne kadar kuvvetli ise aşağıdaki senet ise bir o kadar zayıftır: **es-Süddî es-Sağîr Muhammed b. Mervân – el-Kelbî Muhammed b. Sâib – Ebu Salih Bâzâm Mevlâ Ümmi Hânî – Abdullah b. Abbas**
+## Zayıf hadisle amel
+1. **1. Mezhep:** Yahya b. Maîn ve Ebubekir b. el-Arabî. Hiçbir şekilde amel edilmez.
+2. **2. Mezhep:** Ahmed b. Hanbel, Ebu Davud es-Sicistânî, Ebu Hanife ve İmam Malik. Akaid dışında amel edilebilir.
+3. **3. Mezhep:** Cumhur ulema ve muhaddisler bu görüştedir. Akaid ve helal-haram gibi ameller dışında amel edilebilir. Şartları:
+- Za'fı şedid olmayacak.
+- Meşru genel bir hükme bağlı olacak.
+- Kesin bir rivayet gibi düşünülmeyecek.
+## Zayıf hadisle ilgili meseleler
+1. İsnadı zayıf bir hadis varsa "hadis, bu isnadı ile zayıftır" denilmesi gerekir. Direkt "bu hadis zayıftır" denilmemesi gerekir.
+2. İsnadsız zayıf hadis rivayetinde «رُوِيَ كذا / بلغنا كذا / ورد كذا» gibi temriz sığaları kullanılması gerekir.
+3. Merdud hadiste bir işkal varsa, ulemanın çoğu bu hadisin işkaline cevap vermek ile uğraşmama görüşündedir.
+4. Hafız bir zat bir hadise "bunu bilmiyorum" derse bu söz ile yetinilir ve bu hadisin merdud olması için yeterli bir sebeptir.
+## Zayıf hadisin kaynakları
+- Müstakil ve mutlak olarak "zayıf hadisler" diye bir çalışma yapılmamıştır.
+1. **Nevâdirü'l-Usûl fî Ehâdîsi'r-Rasûl** → Hakîm et-Tirmizî (mutasavvıf olan)
+2. **Firdevsü'l-Ahbâr bi-Me'sûri'l-Hitâb** → Deylemî
+3. **eş-Şihâb fi'l-Mevâiz ve'l-Âdâb** → Kudâî
+4. Târîhu Bağdâd
+5. Târîhu Dımeşk
+6. Târîhu Nîsâbûr
+7. İbn Ebi'd-Dünyâ'nın tüm eserleri
+8. Hilyetü'l-Evliyâ ve Delâilü'n-Nübüvve

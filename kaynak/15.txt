@@ -1,0 +1,59 @@
+# Metne Dair İlimler: Garîb, Fıkıh, Nâsih-Mensûh, Muhtelif, Müşkil, Tashîf
+> Hadis metninin anlaşılmasına hizmet eden ilimler: garîbü'l-hadis, fıkhu'l-hadis, nâsihu'l-hadis ve mensûhu, muhtelefü'l-hadis, müşkilü'l-hadis ile musahhaf ve muharref.
+## Garîbü'l-Hadis
+: Garîbü'l-Hadis = Az kullanıldığından dolayı metinde bulunan, anlaşılmaktan uzak kapalı lafızların bulunduğu hadistir.
+- Bu kapalı lafızları açıklamayı hedefler.
+- Garibi ve hükümlerini bilmek en önemli meselelerdendir. Çünkü uygulama ve içerisinde barınan amele götüren bir yoldur.
+### Eserler
+1. **el-Fâik fî Garîbi'l-Hadîs** → Zemahşerî
+2. **en-Nihâye fî Garîbi'l-Hadîs ve'l-Eser** → İbnü'l-Esîr el-Cezerî
+3. **ed-Dürrü'n-Nesîr Telhîsu Nihâyeti İbni'l-Esîr** → Suyûtî
+## Fıkhu'l-Hadis
+: Fıkhu'l-Hadis = Hadis metninin içerdiği, istinbat edilen ahkâm ve âdaplardır.
+- Hadisin daha iyi anlaşılmasına ve hükümlerin, meselelerin daha iyi istinbat edilmesine yardımcı olur.
+### Eserler
+1. **Fethu'l-Bârî** → İbn Hacer
+2. **el-Minhâc (Sahih-i Müslim'in şerhi)** → İmam Nevevî
+3. **et-Temhîd limâ fi'l-Muvatta' mine'l-Meânî ve'l-Esânîd** → İbn Abdilberr
+4. **İhkâmü'l-Ahkâm** → İbn Dakîkü'l-Îd
+## Nâsihu'l-Hadis ve Mensûhu
+: Nâsih = Önceki şer'î hükmün kalktığını gösteren hadis.
+: Mensûh = Sonradan gelen şer'î delille hükmü kalkan hadis.
+: Nesh = Şâri'in sonraki bir hüküm ile önce geleni hükmen kaldırmasıdır.
+### Neshi nasıl biliriz?
+1. Efendimiz'in açıklaması (kabir ziyareti)
+2. Sahabe efendilerimizin sözü
+3. Tarih ile
+4. İcma ile (icmanın delili nesh eder, bizatihi icma değil)
+### Eserler
+1. **Nâsihu'l-Hadîs ve Mensûhuh** → İbn Şâhin
+2. **el-İ'tibâr fi'n-Nâsih ve'l-Mensûh mine'l-Âsâr** → Hâzimî
+## Muhtelefü'l-Hadis
+: Muhtelefü'l-Hadis = Zahiren birbirlerine aykırı manalar taşıyan iki makbul hadisteki tutarsızlığı gidermeye çalışan ilim dalıdır.
+- Zorlanmaksızın ikisini cem etmek mümkündür.
+- **Örnek:** «إذا بلغ الماء قلتين لم يحمل الخبث» ve «الماء طهور لا ينجسه شيء إلا ما غيّر طعمه أو لونه أو ريحه»
+- Bu iki hadiste zahiren bir çelişki vardır. Birincisi daha umumi olarak gelmiştir. Diğeri ise daha özeldir. Biz bu iki hadisi cem ederek şöyle deriz: Eğer su iki kulleye ulaşır ve vasıflarından da birisi değişirse o su pis olur. Veya su iki kulleye ulaşmaz ve vasıflarından biri değişmese bile o su pistir.
+## Müşkilü'l-Hadis
+: Müşkilü'l-Hadis = Zahiren bir nassa veya ilmî bir hakikata muhalif olması nedeniyle ya da Allah hakkında teşbih vehmettiren bir metne sahip olan hadisle ilgilenir.
+- **Örnek:** «من تقرّب إليّ شبرا تقرّبت منه ذراعا ومن تقرّب مني ذراعا تقرّبت منه باعا ومن أتاني يمشي أتيته هرولة»
+- Zahiren bu hadiste teşbih ve tecsim vardır. Fakat manası şu şekildedir: Kim taat ile bana yürüyerek gelirse ben ona kat kat fazlasıyla sevap ile gelirim.
+- Âlimler müşkil ve muhtelefü'l-hadis ilimlerini ayırmayıp tek kitapta toplamışlardır.
+### Eserler
+1. **Te'vîlü Muhtelifi'l-Hadîs** → İbn Kuteybe
+2. **Müşkilü'l-Hadîs ve Beyânuh** → İbn Fûrek
+3. **Müşkilü'l-Âsâr** → Tahâvî
+## Musahhaf ve Muharref
+- Cümledeki yazım biçimi aynı olması ile beraber harflerde meydana gelen değişikliktir.
+: Musahhaf = Değişiklik noktalamada olursa musahhaf denir.
+: Muharref = Değişiklik şekilde yani kelimede olursa muharref denir.
+### Kısımları
+- **Mana ile:** Aneze kabilesinden olan kişinin "aneze" kelimesini kendi kabile ismi zannetmesi. Hâlbuki hadiste geçen "aneze" sütre maksadı ile dikilen küçük bir mızraktır.
+- **His ile – görme:** «مراجم» yerine «مزاحم» denilmesi.
+- **His ile – duyma:** «عاصم الأحول» yerine «واصل الأحدب» denilmesi.
+- Her iki kısımda hem senette hem de metinde meydana gelebilir.
+### Tashîfin hükmü
+- Tashîfe itimat, özellikle de metindekine mümkün değildir. Muradın anlaşılması, hükümlerin ikrar edilmesi ve bilinmesi için araştırma yapılmalıdır.
+- Tashîf genelde kitaptan alan kişilerde meydana gelir. Çok olmadığı müddetçe ravinin zabtına zarar vermez.
+### Eserler
+1. **et-Tashîf ve't-Tahrîf** → Hasan b. Abdullah el-Askerî
+2. **Islâhu Galati'l-Muhaddisîn** → Hamd b. Muhammed b. Ebî Süleyman

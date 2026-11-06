@@ -1,0 +1,36 @@
+# Muanan, Müennen, Müselsel; Âlî ve Nâzil İsnat
+> İsnadın lafızları ve özelliklerine göre hadis çeşitleri: muanan ve müennen, müselsel hadis; âlî ve nâzil isnat ile âlî isnadın kısımları.
+## Muanan ve Müennen Hadis
+: Muanan Hadis = Tahdis, ihbar veya semâ yollarından biri söylenmeden sadece «عن» lafzı ile rivayet edilen hadistir.
+: Müennen Hadis = Tahdis, ihbar veya semâ yollarından biri söylenmeden sadece «أنّ فلانا قال» şeklinde rivayet edilen hadistir.
+### Muanan hadisin hükmü
+1. Bazıları muttasıl olduğu kesinleşmedikçe munkatı olduğunu söyler.
+2. Buhari, Ali b. Medînî gibiler ise ravi müdellis olmayıp ravi-şeyh arasında likâ var ise muttasıl sayarlar.
+3. İmam Müslim gibiler ise ravi müdellis olmayıp ravi-şeyh arasında imkânü'l-likâ var ise muttasıl sayarlar.
+! Müennen hadisin hükmü konusunda her ne kadar bazı muhaddisler muanan ittisal, müennen ise inkıtayı ifade eder deseler de cumhura göre müennen hadis de muanan hadisin hükümlerine tabidir.
+## Müselsel Hadis
+: Müselsel Hadis = İsnattaki tüm ravilerin bizatihi tek tek, rivayet veya raviler ile alakalı veya bir durum hakkında tek bir vasıf üzere aktardıkları hadistir.
+- Teselsülün metinle bir alakası olmayıp sadece isnat ile alakalıdır.
+- Kavlî müselsel, fiilî müselsel ve hem kavlî hem fiilî müselsel olarak üç kısma ayrılır.
+- **Faydası:** Ravilerin hassasiyetini ve zapttaki kuvvetlerini gösterir.
+- **Hükmü:** Her müselsel hadis sahih değildir. Zayıf, hasen ve sahih olabilirler. En sahih müselsel hadisler ise hıfzının kuvvetli olduğu ravilerin rivayet ettiği hadislerdir.
+### Eserler
+1. **el-Uzbü's-Selsel fi'l-Hadîsi'l-Müselsel** → Zehebî
+2. **el-Cevâhirü'l-Mufassalât fi'l-Ehâdîsi'l-Müselselât** → İbn Taylesân
+3. **Ciyâdü'l-Müselselât ve Müselselâtü'l-Kübrâ** → Suyûtî
+4. **el-Menâhilü's-Selsele fi'l-Ehâdîsi'l-Müselsele** → Muhammed Abdülbâkî
+5. **el-Fazlü'l-Mübîn fi'l-Müselsel min Hadîsi'n-Nebiyyi'l-Emîn** → Dihlevî
+## Âlî ve Nâzil İsnat
+: Âlî İsnat = Ravileri sayıları az olup bu bakımdan daha muteber kabul edilen isnattır.
+: Nâzil İsnat = Âlî isnadın tam tersidir.
+! Âlî isnat sahihe en yakın, en rağbet edilen bir durumdur. Çünkü ravi ne kadar az ise hata ihtimali o kadar az olacaktır.
+## Âlî isnadın kısımları
+: Mutlak Uluv = Peygamber Efendimiz'e en yakın olan sahih ve muttasıl hadistir. Sülâsiyat diye de isimlendirilir.
+- **Nisbî uluv** şu kısımlara ayrılır: hadis imamlarına yakınlığa göre, Kütüb-i Sitte'ye göre, ravinin vefatının önce olmasına göre, hadisi hocadan önce işitmeye göre.
+### Kütüb-i Sitte'ye göre uluv
+: Muvâfakat = Müstahrec yapan kişinin zikrettiği isnat asıldan daha az kişi olursa meydana gelir. (Fark: isnat muvafakatta hocada, bedelde ise hocanın hocasında birleşiyor.)
+: Bedel = İsnadın, asıl musannifin hocasının hocasında birleşmesiyle olan uluvdur.
+: Müsâvât = Buhari'nin senedinde 8 kişi var. Sonradan gelen bir muhaddisin de (İmam Nevevî) kendine has senedinde 8 kişi var. Buna müsâvât denir. Örneği çok nadirdir.
+: Musâfaha = Bu sayılan raviler İmam Nevevî'den değil de onun hocasından itibaren sayılır ve eşit olursa buna musâfaha denir.
+### Ravinin vefatının önce olmasına göre uluv
+- Nevevî bir hadisi hem Beyhakî'den hem de İbn Halef'ten rivayet etmiş. Onlar da Hâkim'den 3 vasıta ile zikretmiş. Fakat Beyhakî'nin isnadı daha âlîdir. Çünkü Beyhakî İbn Halef'ten daha önce vefat etmiştir.

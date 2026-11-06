@@ -1,0 +1,59 @@
+# Cerh ve Ta'dil İlmi
+> Rivayet ehliyeti, adalet ve zabt; ravinin cerh sebepleri (fısk, bid'at, ihtilat); cerh-ta'dil kaideleri, mertebeleri ve eserleri.
+## Temel kavramlar
+: Rivayet Ehliyeti (Edâ) = Rivayeti aktarma ehliyeti. "Şeyh" olabilme ehliyeti de denilebilir. Adalet ve zabt sahibi olması gerekir.
+: Adalet = Kişiyi takvalı olmaya ve şahsiyet sahibi olmaya sevk eden bir hissiyattır.
+: Adl = Müslüman, baliğ, âkil, fısk ve mürûeti yaralayan şeylerden uzak duran kişidir.
+- **Mürûeti yaralayan şeyler:** Bayağılık (basit şeylere tenezzül edecek kadar basitleşmiş; değeri düşük bir şeyi çalmak) ve başkalarının küçümsediği hal ve hareketler (başkaları tarafından küçük görülerek garipsenen davranışlar sergilemek; fazla mizah ve yola bevletmek).
+: Zabt = Rivayetlerini, gaflette olmayıp uyanık olmasıyla sağlam bir şekilde koruyan kişidir.
+- Hafızasından rivayet ediyorsa hafız, kitabından zikrediyorsa zabıt ve manen rivayet ediyorsa o kelimelerin manasını iyi bilmesi gerekir.
+: Zabt-ı Sadr = Ravinin işitip ezberlediği hadisleri tahammül vaktinden edâ vaktine kadar aklında tutabilmesidir.
+: Zabt-ı Kitâbet = Tedvin ettiği hadis kitabını tahammül vaktinden edâ vaktine kadar tağyir-tebdil-ziyade-noksanlıktan korumasıdır.
+## Cerh sebepleri
+: Fâsık = Büyük günah işleyen veya küçük günahlarda ısrarcı olan kişidir. Rivayeti merduttur.
+: Mübtedi' = Ehl-i sünnet ve'l-cemaat akidesine ters, muhalif bir inanca sahip kişidir. İki kısımdır.
+- **Bid'at-i mükeffira:** Hiçbir değeri olmayan ve rivayetleri merdut kişidir.
+- **Bid'at-i gayr-i mükeffira:** Mezhebinin görüşünü üstün göstermek için yalanı mübah gören ile davet ve propaganda yapıp yalanı helal görmeyenin rivayeti merduttur. Kendi halinde yaşayan bid'at ehli adalet ve zabt sahibi ise rivayeti makbuldür.
+: Muhtelit = Yaşlılık, bunaklık, göz bozukluğu gibi sebeplerden dolayı aklı karışan kişidir.
+1. Aklı karışmadan önceki rivayetleri makbuldür.
+2. Aklı karıştıktan sonraki rivayetleri merduttur.
+3. Eğer rivayet zamanı bilinmiyorsa tevakkuf edilir.
+## İbhâm ile ta'dil
+- Ravinin hocasının ismini zikretmeksizin «حدّثني الثقة» ibaresiyle rivayeti aktarmasıdır. Cumhur ulemaya göre bu ta'dil kabul edilmez.
+- Bir müçtehit için denilirse bu, o mezhebin müntesipleri için bir hüccettir. Fakat başkası aleyhine hüccet olmaz.
+## Ravinin adalet ve zabtı nasıl bilinir?
+1. **Şöhret-istifâza ile:** Ehl-i ilim arasında şöhret ve detayları bilinen kimsenin araştırılmasına gerek yoktur (dört mezhep imamları gibi).
+2. **Cerh-ta'dil imamlarının ta'dili ile:** Bu ilmi bilen âlimler bir kişiyi cerh etmedikçe adildir.
+3. Sika ravilerin rivayetleri ile kıyas ederek zabt bilinir. (Muhalefeti çoksa zabtına zarar verir ve o kişinin rivayeti hüccet olmaktan çıkar.)
+## Cerh ve ta'dil kaideleri
+1. **Ta'dilde icmal, cerhte tafsil:** Ta'dil sebebi zikredilmeksizin kabul edilir. Cerh ise sebebi zikredilmeden kabul edilmez. Çünkü bazıları teşeddüt sahibi, bazıları da mütesahildir.
+2. **Cerh-ta'dilde tearuz:** Ravi hem cerh hem de ta'dil edilmişse öncelik cerhin kabul edilmesidir. Fakat şu şartların olması gerekir: (1) Cerh müfesser olacak. (2) Cârih müteşeddit olmayacak. (3) Ta'dil yapan kişi cerh sebebini çürütecek bir şey söylemeyecek.
+3. **Muaddil-cârihin şartları:** Cerh yapan kişi adil, uyanık ve adalet-zabt sebeplerini bilmesi gerekir. Ta'dil yapan ise yukarıdaki şartlara ek olarak takva ve vera sahibi olması, ayrıca taassup ve hevadan uzak olması gerekir.
+## Meçhul ve mestur kişiler
+: Mechûlü'l-Ayn = Rivayetinde tek kalınan, cerh ve ta'dil yapılmayan hocadır. (Cumhura göre rivayeti makbul değildir.)
+: Mechûlü'l-Hâl = Mestur da denilebilir. İki veya daha fazla kişinin rivayeti bulunan, cerh ve ta'dil yapılmayan hocadır. (Bazı âlimlere göre rivayeti hüccet olabilir.)
+## Rivayeti etkileyen diğer durumlar
+- **Eda ve tahammül yollarında tesâhül ile bilinen kimseden yapılan rivayet:** Hadisi dinlerken (rivayet ederken) gevşek davranmakla bilinen kişilerin rivayeti makbul değildir (hadis dinlerken uyuması, başka işlerle meşgul olması gibi).
+- **Ravinin rivayetinden veya nisyanından dönmesi:** Bir sika ravi «ما رويته / هو كذب عليّ» gibi lafızlarla rivayetinden rücu etse bu hadisin merdud olması vaciptir. Diğer rivayetleri bundan etkilenmez. Sika ravi rivayet etmiş olduğu hadisi unutarak reddederse cumhur ulemaya göre onunla amel edilir.
+- **Yalandan tövbe:** Yalandan tövbe eden kişiye gelince; bu yalanı dünyalık bir şey olup da tevbe etmişse rivayeti kabul edilir. Fakat yalanı hadisle alakalı ile ise nasuh tevbesi etse bile rivayeti artık kabul edilmez.
+## Müteahhir ulemaya göre ta'dil mertebeleri
+1. Mübalağa veya «أفعل» vezni kullanılması («أوثق» gibi)
+2. «لا يُسأل عنه» ibaresi
+3. Tevsîke delalet eden sîganın tekidi («ثقة ثقة»)
+4. Tevsîke delalet eden sîganın tek kullanımı («ثقة»)
+5. «ليس به بأس — لا بأس به — صدوق — مأمون — خيار الخلق» lafızları
+6. Cerhe en yakın mertebedeki sîgalar: «ليس ببعيد من الصواب — شيخ وسط — صدوق إن شاء الله»
+## Müteahhir ulemaya göre cerh mertebeleri
+1. Mübalağa vezinleri kullanılması («أكذب الناس — إليه المنتهى في الكذب — هو ركن الكذب — منبع الكذب» gibi)
+2. «دجال — كذاب — وضاع — يكذب» lafızları
+3. Yalan ve uydurma ile itham edilen («فلان يسرق الحديث — متروك — هالك — ذاهب الحديث — لا يعتبر به»)
+4. «فلان رُدّ حديثه — مردود الحديث — ضعيف جدا — مطروح الحديث — لا يكتب حديثه — ليس بشيء» lafızları
+5. «فلان لا يحتجّ به — ضعّفوه — مضطرب الحديث — ضعيف — منكر الحديث» lafızları
+6. En az zayıflık bulunan kısımdır: «فيه مقال — ضُعّف — ليس بذلك — ليس بالقوي — فيه شيء — غيره أوثق منه — سيء الحفظ — فيه نظر» lafızları
+! Beşinci ve altıncı kısım itibar çalışması ile hasen li-ğayrihî olabilirler.
+## Eserler
+1. **es-Sikât** → İbn Hibbân el-Büstî
+2. **Mîzânü'l-İ'tidâl** → Şemseddin ez-Zehebî
+3. **el-Cerh ve't-Ta'dîl** → İbn Ebî Hâtim er-Râzî
+4. **Lisânü'l-Mîzân** → İbn Hacer
+5. **ed-Duafâü'l-Kebîr** → Ukaylî

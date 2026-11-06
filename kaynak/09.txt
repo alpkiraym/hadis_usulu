@@ -1,0 +1,42 @@
+# Tedlis ve Mürsel-i Hafî
+> Müdelles hadis, tedlisü'l-isnad ve tedlisü'ş-şuyûh ile çeşitleri ve hükümleri; mürsel-i hafî, bilinme yolları ve tedlisle farkı.
+## Müdelles Hadis
+: Müdelles Hadis = İsminde bir inkıta veya kapalılık şüphesi bulunan, tedlis ile maruf bir ravinin rivayet ettiği hadistir.
+## Tedlîsü'l-İsnâd
+: Tedlîsü'l-İsnâd = Ravinin, likâ ve semâ' ettiği raviden işitmediği hadisi de işitmiş gibi vehmettirecek lafızlarla rivayet etmesidir.
+### Çeşitleri
+: Tedlîsü'l-Kat' = Edâ lafzını zikretmeksizin kendisinden işittiği hocasından işitmediği hadisi aktarmasıdır.
+: Tedlîsü't-Tesviye = Birbirileriyle karşılaşmış olan iki sika ravi arasında var olan zayıf bir ravinin düşürülerek iki sika arasında rivayet edilmiş izlenimi vermektir.
+: Tedlîsü'l-Atf = Ravinin iki hocası var. Hadisi bir hocasından kesin işittiğini gösterecek lafızla aktardıktan sonra işitmediği hocasını da atıf yoluyla isnada katmasıdır. «حدثنا حصين ومغيرة عن إبراهيم»
+### Tedlîsü'l-isnad ve çeşitlerinin hükmü
+1. Eğer rivayet edilen hadis makbul olmayıp bunun gizlenmesi niyetiyle yapılırsa **haramdır**.
+2. Eğer tedlis yapan kişi kendisinden yaşça küçük olan bir raviden rivayet etmeyi gizliyorsa bu **mekruhtur**.
+3. Eğer talebelerini imtihan için yapıyorsa bu **caizdir** (doğrusunu söyleme kaydıyla).
+! Kişi bir kere tedlis yapsa bile diğer rivayetlerinde «سمعت / حدثني» gibi lafızlar yoksa ihtiyatlı davranılır.
+## Tedlîsü'ş-Şuyûh
+: Tedlîsü'ş-Şuyûh = Durumunu gizlemek adına tanındığı ismin hilafına ravinin hocasını isimlendirmesi, yeni bir künye oluşturması ve ona lakap takmasıdır.
+: Tedlîsü'l-Bilâd = Bir belde ismi verip o beldeyi değil de başka yerde bir sokağı veya köyü kastetmek. (Endülüs deyip Karafe'de bir sokağı kastetmek gibi.)
+### Hükmü
+- Her ne kadar tedlis-i isnaddan kerahet bakımından hafif kalsa da ulema bu tedlisi de kerih görmüşlerdir.
+### Sebepleri
+1. Kişinin zayıflığından dolayı tedlis ki bu kısma haram diyenler de vardır.
+2. Hocası çok yaşamış, kendisi de ondan yaşça çok küçük birisi de talebesi olmuş. Bundan dolayı farklı isim kullanması hafif de olsa mekruhtur.
+3. Tek hocadan işittiği halde çok hocadan işitmeyi vehmettirme.
+4. Talebeyi sınamak.
+## Müdelles hadis eserleri
+1. **Manzûme** → Şemseddin ez-Zehebî
+2. **et-Tebyîn li-Esmâi'l-Müdellisîn** → Burhaneddin Ebu'l-Vefâ
+3. **Ta'rîfü Ehli't-Takdîs bi-Merâtibi'l-Mevsûfîn bi't-Tedlîs** → İbn Hacer el-Askalânî
+## Mürsel-i Hafî
+: Mürsel-i Hafî = Ravinin, muasır olup likâ olmayan veya likâ olsa bile semâ' olmayan kişiden rivayet etmesidir. (Yani kesinlikle bu kişiden bir şey işitmemiş.)
+- **Munkatıdan farkı:** Munkatı hadiste ittisal yoktur. Ravi ile rivayet edilen kişi muasır değildir.
+### Bilmenin yolları
+1. **Likâ yok:** Aynı asırda yaşamasına rağmen tarihi kaynak veya buna muttali olan bir imamdan, likâ olmadığına dair bir delil ile bilinmesidir.
+2. **Semâ' yok:** Likâ olsa dahi kişinin bizzat bildirmesi veya bu ilmi bilen birisinin söylemesi yoluyla semâ'ın olmadığının bilinmesidir.
+3. **Başka rivayet:** Ravi hadisi «عن رجل» ile aktardıktan sonra başka rivayette «نُبِّئْتُ عنه» veya «أُخْبِرْتُ عنه» gibi lafızlar kullanırsa bilinir.
+### Tedlîsü'l-isnad ve mürsel-i hafînin farkı
+1. Müdelleste rivayet ettiği kişiden başka hadis işitmiştir. Mürsel-i hafîde ise hiçbir şey işitmemiştir.
+2. Dolayısıyla müdelleste belki işitmiş olabilir vehmi vardır. Mürsel-i hafîde o ihtimal yoktur (mürsel-i hafî olduğunu bilirsek).
+### Mürsel-i hafînin hükmü
+- Zayıf hadis hükmündedir.
+- Bu, metninin de zayıf olduğu anlamına gelmez. Başka sahih bir tarik varsa metin sahih olur.

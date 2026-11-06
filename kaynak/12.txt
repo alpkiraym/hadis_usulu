@@ -1,0 +1,46 @@
+# Müdrec ve Maklûb Hadis
+> Hadise sonradan karışan ziyadeler (müdrec) ile metin ve senette yer değiştirme (maklûb): kısımları, hükümleri ve eserleri.
+## Müdrec Hadis
+: Müdrec Hadis = Bizzat hadistenmiş gibi vehmettiren tarzda, kendisinde ziyadenin olduğu hadis türüdür.
+## Metinde müdrec
+- Rivayetin aslından olmayan, duyan kişinin hadisten zannettiği bazı ravilerin kelamlarından hadiste zikredilen kısımdır.
+- Başında, ortasında ve sonunda olmak üzere üç yerde vaki olur.
+- Çoğu idrac metinde meydana gelir. Senedde idrac azdır.
+- Amacı garip lafzı açıklamak ve murad olunan manayı açıklamaktır.
+! **Örnek:** «أن رسول الله ﷺ قال وهو على المنبر وذكر الصدقة والتعفف عن المسألة: اليد العليا خير من اليد السفلى، واليد العليا هي المنفقة والسفلى هي السائلة» Son kısım («واليد العليا هي المنفقة والسفلى هي السائلة») müdrectir; Abdullah b. Ömer'in (ra) sözüdür.
+## İsnatta müdrec
+1. Birçok isnatla rivayet edilen hadisi bir ravinin tek bir isnatta toplayıp rivayet etmesi ve bunu da beyan etmemesidir. Tek senet varmış vehmi uyandırır.
+2. Ravilerin eksik metnin isnadıyla tam metni rivayet etmeleridir. İki kısımdır: (a) Ravi eksik metinli bir isnada sahip; fakat aynı metin bir başka isnatla tam olarak gelmiş. Ravi eksik metnin isnadıyla tam metni rivayet ediyor. (b) Ravi hadisi hocasından vasıta olmaksızın eksik olarak alıyor; bir başka isnatta ise vasıtalı olarak tam metinle alıyor. Fakat vasıtayı hazfederek tam metni rivayet ediyor.
+3. Ravinin yanında iki ayrı sened ve metin vardır. Ravi bir senetle iki hadisi de rivayet ederse olur. Ya da ravi birisine özel isnatla metinleri rivayet eder fakat diğer metinden birincisinde olmayan şeyi ekleyerek bunu yaparsa olur.
+4. Muhaddis senedi zikrettikten sonra kendisine ârız olan bir şey sebebi ile kendinden bir söz söyler ve bu söz ise senedin metni zannedilir.
+## Müdrecin hükmü
+- **Hadisteki garip lafzı açıklama:** Bunlara müsamaha gösterilir. Fakat evlâ olan bunun hadisten olmadığını belirtmesidir.
+- **Kasıt olmaksızın ravinin hata ile yapması:** Bu hatasını tekrar etmezse problem teşkil etmez. Aksi takdirde zabtında kusur meydana gelir.
+- **Kasten îham ve iğrâb için yapması:** Ravinin adalet vasfı düşer ve yalanla itham edilir. Dolayısıyla kezzâb denilen kişilere ilhak olur.
+## İdrac nasıl bilinir?
+1. İdracın olmadığı başka bir metin gelirse
+2. Ravi müdrec olduğunu belirtir veya işaret ederse
+3. Hafız kimse müdrec olduğunu belirtirse
+4. Efendimiz'e (sav) yaraşmayacak bir manada olması
+## Müdrec eserleri
+1. **el-Fasl li'l-Vasli'l-Müdrec fi'n-Nakl** → Hatîb el-Bağdâdî
+2. **Takrîbü'l-Menhec bi-Tertîbi'l-Müdrec** → İbn Hacer
+3. **el-Medrec ilâ Ma'rifeti'l-Müdrec** → Suyûtî
+4. **Teshîlü'l-Müdrec ile'l-Müdrec** → Abdülaziz el-Ğumârî
+## Maklûb Hadis
+: Maklûb Hadis = İbdâl, takdim ve tehir sebebi ile hadisin metin ve senedinde değişiklik meydana gelen hadistir.
+## Metinde maklûb
+- İki şeyden birine, diğerinin hak ettiği şeyi vermek veya buna benzer bir şeydir.
+- «إذا أمرتكم بشيء فأتوه وإذا نهيتكم عن شيء فاجتنبوه ما استطعتم» hadis-i şerifin bu varyantı maklûb olarak kabul edilir.
+- Bu hadisi Buhari ve Müslim şu şekilde rivayet etmiştir: «ما نهيتكم عنه فاجتنبوه وما أمرتكم به فأتوا منه ما استطعتم»
+## Senette maklûb
+1. **Ravinin bir diğer ravi ile ibdâli:** Aynı tabakada olan bir ravinin diğeri ile değişimidir. (Hâkim → Yakub b. Ebî Seleme → Ebu Hureyre: Burada Hâkim aslında hadisi Yakub b. Seleme'den rivayet ediyor. Aynı tabakada olan Yakub b. Ebî Seleme'yi onun yerine zikrediyor.)
+2. **Ravinin ismini kalb etme:** Muhammed b. İsmail ismini İsmail b. Muhammed diye zikretmek.
+3. **Senetlerin başka metinlerle kalbi:** Bir metnin senedinin alınıp başka bir metne konulması ve ilk metnin ise ikincinin senedi ile zikredilmesidir. Âlimlerin Buhari'ye yaptığı imtihan bu şekilde gerçekleşmiştir.
+## Maklûb hadisin hükmü
+1. **Eğer kalb hataen, sehven veya vehmen olursa** bu ravinin zapt eksikliğini gösterir ki hadis bundan dolayı zayıf olur.
+2. **Eğer kalb bilinçli bir şekilde amden olursa** bu ya iğrâb için olur ya da imtihan için olur.
+- **İğrâb:** Ravinin, diğer ravilerden bulunmayan kendisinin bildiği bir hadis olduğunu vehmettirmek için yapar ki bu kişinin adaletinin gitmesine sebep olur ve yalancılıkla itham edilir.
+- **İmtihan** için olursa da bu çok kez tekrarlanmayacak ve doğrusunun açıklanması durumunda caizdir.
+## Eser
+- **Râfiu'l-İrtiyâb fi'l-Maklûb mine'l-Esmâi ve'l-Elkâb** → Hatîb el-Bağdâdî

@@ -1,0 +1,76 @@
+# Hasen Hadis
+> Hasen hadisin tanımı ve kısımları, en sahih ve en zayıf senetler, hasen hadisin kaynakları (sünenler ve Müsned), Tirmizî'nin "hasen sahih" ifadesi ve ilgili terimler.
+## Tanım
+: Hasen Hadis = Adil olmakla beraber sahih hadisin ravisine göre zabtı daha hafif olan bir ravinin muttasıl bir senetle rivayet ettiği, şaz ve muallel olmayan hadistir.
+## Hasen hadisin kısımları
+: Hasen li-zâtihî = Tanımda yer alan şartları kendisinde bulunduran hadis.
+: Hasen li-ğayrihî = Rivayet ehliyeti tam olarak tespit edilmemiş, mechul ve mestur olan kişilerden rivayet edilen hadistir. Kısaca zabtında hafif kusur olan ravinin rivayet ettiği hadistir.
+- Hasen li-ğayrihîde ravi fazla hata yapmayacak ve yalanla itham edilmeyecek.
+! Tirmizî "Bu hadis hasendir" dediğinde bu hadis "hasen li-ğayrihî"dir.
+! Her hadis hasen li-ğayrihî seviyesine çıkmaz. Raviler kizb, fısk, gaflet gibi hallere sahipseler bu ravilerle hadisi desteklemek hadisi daha da zayıf yapar.
+## En sahih senetleri
+1. «بهز بن حكيم بن معاوية عن أبيه عن جده»: Behz b. Hâkim – Hâkim b. Muaviye – Muaviye b. Hayde el-Kuşeyrî
+2. Amr b. Şuayb – Şuayb b. Muhammed – Abdullah b. Amr b. el-Âs
+## En zayıf senetleri
+- Haris b. Abdullah el-A'ver, Âsım b. Damra, Haccâc b. Ertât adlı ravilerin bulunduğu senetler zayıftır.
+## Kaynakları
+1. Tirmizî, Sünen (el-Câmi)
+2. Ebu Davud es-Sicistânî, Sünen
+3. Nesâî, Sünen
+4. İbn Mâce, Sünen
+5. Ahmed b. Hanbel, Müsned
+- Dârekutnî ve Beyhakî'nin sünenleri de sayılabilir.
+## Tirmizî · Sünen
+- Muhammed b. Îsâ.
+- Sahih ve zayıf hadisler olsa da hasen hadisin en çok bulunduğu eserdir.
+- Hadislerin sahih, hasen ve zayıflık derecelerini beyan eder.
+- Zayıflıklarına ve illetlerine işaret eder.
+- 3956 hadis içerir.
+## Ebu Davud · Sünen
+- Süleyman b. el-Eş'as.
+- Kendi ifadesine göre sahih ve sahihe benzeyen rivayetleri almış ve metruk ravi olmadığını söylemiştir.
+- İbnü's-Salâh'a göre hüküm vermediği hadis hasen derecesindedir.
+- 5270 küsur hadis içerir.
+## Nesâî · Sünen
+- Ahmed b. Şuayb.
+- Eserin ismi el-Müctebâ veya el-Müctenâ'dır.
+- Günümüze ulaşmayan es-Sünenü'l-Kübrâ isimli eserinin muhtasarıdır.
+- Sadece sahih olan hadisler ve illetine dikkat çekilen illetli hadisler zikredilmiştir.
+- Dört sünen içerisinde en az zayıf hadis bulunan eserdir.
+- Bab adları babın içeriğine göre konulmuştur.
+- 5778 küsur hadis içerir.
+## İbn Mâce · Sünen
+- Muhammed b. Yezid.
+- Bablandırılmasının güzelliği ile ön plana çıkar.
+- Mütekaddim ulema kaynak nitelikteki hadis kitaplarını; Sahihayn ve diğer üç sünen olarak saymışlardır.
+- Müteahhir ulema ise bu kitabı da ekleyerek Kütüb-i Sitte oluşmuştur.
+- Sünenler içerisinde zayıf hadisin en çok olduğu eserdir. Bazı metruklar da mevcuttur.
+- 4340 küsur hadis içerir.
+## Ahmed b. Hanbel · Müsned
+- Ale'r-ricâl tarzında yazılmıştır.
+- 40 bin hadis içerir (mükerrerler hariç 27 bin).
+- Ahmed es-Sââtî el-Bennâ fihristini yapmıştır.
+## Tirmizî'nin «هذا حديث حسن صحيح» lafzı
+1. **İbnü's-Salâh:** Bir hadise sahih veya hasen denilmesi isnadın durumuyla ilgilidir. Eğer bir hadis iki isnadla/tarikle varid olursa o zaman Tirmizî'nin bu sözü doğru olur.
+2. **İbnü's-Salâh:** Tirmizî'nin hasen'den maksadı ıstılahi değil lügavi manadır.
+3. **İbn Dakîkü'l-Îd:** Hasen hadisin illa da sahih hadisten alt mertebede olması gerekmez. Hasen bir hadisin sahihten aşağıda olması için tek bir isnadla gelmesi gerekmektedir. Bundan dolayı Tirmizî'nin bu sözündeki hasen ile sahih aynı şeydir.
+4. **İbn Kesîr:** Hasen hükmü sahih hükmüne içirildiği gibi sahih hükmü de hasen hükmüne içirilmektedir.
+### İbn Hacer'in görüşü (muteber görüş)
+- Bu durumda iki ihtimal vardır: Bu hadis ya tek tarikle gelmiştir ya da iki veya daha fazla tarikten gelmiştir.
+- **Tek tarikle gelmişse:** «حسن (أو) صحيح» demektir.
+- **İki ve daha fazla ise:** «حسن (و) صحيح» demektir.
+## Beğavî'nin "hasen" ıstılahı
+- Ebu Muhammed el-Hüseyn b. Mes'ud.
+- Kütüb-i Sitte'nin bir müstahreci gibidir.
+- Eserin ismi **Mesâbîhu's-Sünne**'dir.
+- Hadisler sıhâh ve hisân (sahih-hasen) diye iki kısımdır.
+- Sahih: Buhari ve Müslim'dir. Hasen ise Ebu Davud, Tirmizî ve Nesâî'nin sünenleridir.
+- Bu taksiminden dolayı tenkide uğramıştır.
+## Sahih ve hasen hadis ile ilgili bazı terimler
+: Ceyyid «جيد» = Bazı muhaddisler hasenden üstün ve sahihe yakın anlamında kullanmışlardır.
+: Kavî «قوي» = Sahih anlamında kullanılmaktadır.
+: Sâlih «صالح» = Sahihi de haseni de kapsayabilir. (Ebu Davud bir hadis hakkında değerlendirme yapmamışsa sâlih kavramını kullanmaktadır.)
+: Sâbit / Mücevved «ثابت / مُجَوَّد» = Sahih ve haseni de kapsar.
+: Müşebbeh «مُشَبَّه» = Hasen ve zayıfı kapsar.
+: Ma'rûf «معروف» = Münkerin zıddıdır.
+: Mahfûz «محفوظ» = Şazzın zıddıdır.

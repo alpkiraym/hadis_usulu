@@ -1,0 +1,44 @@
+# Temel Kavramlar ve Sünnetin Konumu
+> Hadis, sünnet, haber, eser gibi temel terimler; ravi ve muhaddis unvanları; sünnetin Kur'an'a göre konumu ve hüccet oluşunun delilleri.
+## Metne ilişkin kavramlar
+: Hadis = Söz, fiil, takrir, yaratılış ve huy itibariyle Allah Rasulü'ne, sahabeye ve tabiine nispet edilen şeyler demektir.
+: Sünnet = Sadece Allah Rasulü'ne nispet edilen şeydir.
+: Haber = Allah Rasulü'nden başkasına nispet edilen şeydir.
+: Eser = Sadece sahabeye nispet edilen şeydir.
+## Sened ve metin
+: Senet = Metne ulaştıran raviler zinciridir.
+: Metin = Senedin kendisinde son bulduğu, hadisin manalarına delalet eden hadis lafızlarıdır.
+: İsnâdü'l-Hadis = Sözü söyleyene dayandırmaktır.
+: Müsnid = Rivayet eden kişinin kendisi, ravi (Buhari, Müslim gibi).
+## Hadisçilerin unvanları
+: Ravi = Müsnid olan kişi.
+: Muhaddis = Hadis rivayet eden, hadis ilmine vakıf, birçok metin ezberleyip raviler hakkında bilgisi olan kişi.
+: Hafız = Bildiği hadisler bilmediği hadislerden fazla olan kişi.
+: Hüccet = Muhaddis ve hafızdan üstün, bilmediği hadis nadir olan kişi.
+: Hâkim = Rivayet edilen tüm hadisler hakkında detaylı bilgiye sahip kişi.
+: Emîrü'l-Mü'minîn = Hadis ilminde muasırlarının üstünlüğünü kabul ettiği kişi.
+### Emîrü'l-Mü'minîn unvanını alan bazı muhaddisler
+1. Süfyan es-Sevrî
+2. Süfyan b. Uyeyne
+3. Abdullah b. Mübarek
+4. Buhari
+5. Müslim
+6. Dârekutnî
+7. İbn Hacer el-Askalânî
+## Rivayet ve dirayet
+: Rivâyetü'l-Hadis = Hadisleri rivayet ve o hadisleri doğru bir şekilde zapt etmekle ilgilenir.
+: Dirâyetü'l-Hadis = Hadisin sahih ve zayıf; makbul ve merdud oluşu ile ilgilenir.
+## Hadis ilminin faydaları
+1. Makbul ve merdud hadislerin bilinip ona göre amel edilmesi
+2. Müslümanların hadislere olan güvenini pekiştirmesi
+3. Hadisle iştigal eden kişilerin hadislerle ilgili meleke sahibi olmaları
+4. Bu usulü geliştiren ve katkı sağlayan âlimlere karşı saygı oluşturması
+## Sünnetin Kur'an'a göre konumu
+- **Müekkid**
+- **Mübeyyine**: üç kısma ayrılır → **Müfessire**, **Muhassıs**, **Mukayyid**
+- **Vâdıha (Münşie)**
+## Sünnetin hüccet oluşunun delilleri
+1. **Peygambere imanı emreden ayetler:** «يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَابِ الَّذِي نَزَّلَ عَلَى رَسُولِهِ وَالْكِتَابِ الَّذِي أَنْزَلَ مِنْ قَبْلُ»
+2. **Allah'a itaatle beraber Peygambere itaati emreden ayetler:** «قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ لَا يُحِبُّ الْكَافِرِينَ»
+3. **Sadece Peygambere itaati emreden ayetler:** «قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَاللَّهُ غَفُورٌ رَحِيمٌ»
+4. **Peygamberi örnek almanın gerekliliğini ifade eden ayetler:** «لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا»

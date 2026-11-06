@@ -1,0 +1,49 @@
+# Sahih-Hasen-Zayıf Hadis ile Alakalı Ortak Kavramlar
+> Muttasıl, merfu, müsned, mevkuf ve maktu hadisler; kudsî hadis; mevkuf ve maktunun hücceti ve hükmen merfu hadisin bilinme yolları.
+## Muttasıl Hadis
+: Muttasıl Hadis = Senedin başından müntehasına kadar muttasıl olan hadistir.
+- Sahih ve hasen örneklerinin tümü muttasıldır. Çünkü bu hadislerin bir şartı senedin muttasıl olmasıdır.
+- Bazı alimler senedin müntehası tabiinden olursa «هذا متصل إلى سعيد بن المسيب» gibi özellikle belirtirler. Fakat cumhur ulema mutlak "muttasıl" kavramını yeterli görür.
+- Muttasıl hadis sahih, hasen ve zayıf olabilir.
+## Merfu Hadis
+: Merfu Hadis = Peygamber Efendimiz'e (sav) söz, fiil, takrir, ahlaki ve fiziki sıfatlardan izafe edilen her şeyi kapsar.
+- Merfu hadis bazen muttasıl, bazen munkatı, bazen mürsel olabilir.
+- Sahih, hasen ve zayıf olma ihtimali vardır.
+## Müsned Hadis
+: Müsned Hadis = Hem merfu hem de muttasıl olan hadistir.
+- Sahih, hasen ve zayıf olma ihtimali vardır.
+- Her müsned muttasıldır fakat her muttasıl müsned değildir.
+- Her müsned merfudur fakat her merfu müsned değildir.
+## Mevkuf Hadis
+: Mevkuf Hadis = Senedi muttasıl olsun veya olmasın müntehası sahabe olan hadistir. Sahabe efendilerimizin söz, fiil ve takrirlerini kapsar.
+### Kaynakları
+1. İbn Ebî Şeybe → Musannef
+2. Abdürrezzâk b. Hemmâm es-San'ânî → Musannef
+3. İmam Malik → Muvatta
+4. Taberî → Câmiu'l-Beyân tefsiri
+5. İbn Ebî Hâtim'in tefsiri
+6. İbnü'l-Münzir en-Nîsâbûrî'nin tefsiri
+7. Ebu Nuaym el-İsfahânî → Hilyetü'l-Evliyâ ve Tabakâtü'l-Asfiyâ
+8. İbn Ebi'd-Dünyâ
+## Maktu Hadis
+: Maktu Hadis = Senedi muttasıl olsun veya olmasın müntehası tabiin olan hadistir.
+- Maktu hadisin kaynakları, mevkuf hadisin kaynakları ile aynıdır.
+## 1. Mesele: Kudsî hadis
+- Kudsî hadis merfu hadisin altında bir kategoridir. Zira ikisinin de lafızları Efendimiz'e (sav), manası Allah Teâlâ'ya aittir.
+### Kur'an-ı Kerim ile kudsî hadis arasındaki fark
+- Kur'an hem mana hem de lafız itibariyle Allah'a aittir.
+- Kur'an meydan okuyarak benzerini getirmekten aciz bırakır.
+- Kur'an'ın sübutu katidir.
+! İmam el-Münâvî ve Muhammed el-Medenî et-Trabzonî'nin «الإتحافات السنية في الأحاديث القدسية» adlı eseri kaynakları arasında sayılabilir.
+## 2. Mesele
+- Eğer müntehası tabiin olan bir hadise mevkuf denilirse kayıt getirilerek şöyle denilir: «هو موقوف على كذا»
+## 3. Mesele: Mevkuf ve maktunun hücceti
+- Sahabe icma ettiyse hüccettir. İhtilaf ettiyse Şâfiî dışında cumhura göre yine hüccettir.
+- Maktu hadis ise genel görüşe göre hüccet değildir.
+## Hükmen merfu (4.–8. meseleler)
+1. Eğer sahabe **"Peygamber zamanında"** diye bir kayıt koyarsa bu hükmen merfudur. Mutlak olarak "biz şöyle yapardık" diye rivayet ederse hükmen merfu olmaz (İbnü's-Salâh, Hatîb el-Bağdâdî).
+2. Eğer sahabe **"emrolunduk, nehyolunduk"** gibi lafızlarla rivayet ederse kesinlikle hükmen merfudur.
+3. Eğer sahabe **"bu sünnettendir"** gibi bir ifade kullanıyorsa bu da kesinlikle hükmen merfudur.
+4. Sahabe **kendi görüşünden veya içtihadından hareketle söylemesi mümkün olmayan** bir söz söylerse bu da hükmen merfudur. Çünkü bu gibi konuları Efendimiz'in dışında bir kimseden duyamaz. Fakat bir sahabenin ehl-i kitaptan rivayet etmesi meşhursa gayb konusunda hükmen merfu diyemeyiz.
+5. **Esbâb-ı nüzûl** da hükmen merfudur.
+6. Ravi senedi zikrederken sahabiyi söyledikten sonra «يرفعه / ينميه / يبلغ به» gibi lafızlar kullanırsa bu da hükmen merfudur.
