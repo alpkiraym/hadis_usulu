@@ -1,0 +1,25 @@
+{
+  "name": "Hadis Usulü · Giray Akademi",
+  "short_name": "Hadis Usulü",
+  "description": "Ünite ünite konu anlatımı, kavram kartları ve açıklamalı testler",
+  "start_url": "/hadis_usulu/",
+  "scope": "/hadis_usulu/",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#1f5a45",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/hadis_usulu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hadis_usulu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

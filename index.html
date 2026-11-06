@@ -4,12 +4,25 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Hadis Usulü</title>
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png?v=1">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png?v=1">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=1">
+<link rel="manifest" href="site.webmanifest?v=1">
+<meta name="theme-color" content="#1f5a45">
+<meta name="apple-mobile-web-app-title" content="Hadis Usulü">
+<meta name="application-name" content="Hadis Usulü">
 <meta name="description" content="Hadis usulü için ünite ünite konu anlatımı, kavram kartları, eser–müellif eşleştirme ve açıklamalı testler.">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Hadis Usulü">
+<meta property="og:site_name" content="Giray Akademi">
 <meta property="og:title" content="Hadis Usulü">
 <meta property="og:description" content="Hadis usulü için ünite ünite konu anlatımı, kavram kartları, eser–müellif eşleştirme ve açıklamalı testler.">
+<meta property="og:url" content="https://alpkiraym.github.io/hadis_usulu/">
+<meta property="og:image" content="https://alpkiraym.github.io/hadis_usulu/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Hadis Usulü · Giray Akademi">
 <meta property="og:locale" content="tr_TR">
+<meta name="twitter:card" content="summary_large_image">
 <style>
 :root{
   --paper:#f7f3ea; --card:#fffdf8; --ink:#1f2a24; --muted:#6b7068; --line:#e3dccb;
@@ -27,7 +40,13 @@ button{font:inherit;color:inherit;cursor:pointer}
 header.top{position:sticky;top:0;z-index:5;background:rgba(247,243,234,.92);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
 header.top .wrap{display:flex;align-items:center;gap:12px;padding-top:10px;padding-bottom:10px}
 .brand{white-space:nowrap;display:flex;align-items:center;gap:10px;font-family:var(--serif);font-size:1.15rem;font-weight:700;color:var(--green);background:none;border:0;padding:0}
-.brand .mark{width:30px;height:30px;border-radius:8px;background:var(--green);color:#f4c430;display:grid;place-items:center;font-size:1rem}
+.crumb{display:flex;align-items:center;gap:6px;min-width:0;flex:1 1 auto}
+.crumb .brand{min-width:0}.crumb .bt{overflow:hidden;text-overflow:ellipsis}
+.ga{display:grid;text-decoration:none;border-radius:8px}
+.ga .mark,.brand .pmark{width:30px;height:30px;border-radius:8px;background:var(--green);color:#f4c430;display:grid;place-items:center;flex:none}
+.ga:hover .mark{background:var(--green-2)}
+.csep{color:var(--line);font-size:1.3rem;line-height:1;margin:0 1px}
+.brand .pmark{background:var(--gold-soft);color:var(--green);border:1px solid #e6d6ae}
 .spacer{flex:1}
 .ghost{background:none;border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:.88rem;color:var(--muted)}
 .ghost:hover{border-color:var(--green-2);color:var(--green)}
@@ -232,7 +251,7 @@ details.harita .hb{padding:0 16px 14px}
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <button class="brand" onclick="go('home')"><span class="mark" title="Tarak tamga"><svg viewBox="24 22 152 96" width="22" height="14" aria-hidden="true" fill="currentColor"><rect x="45" y="33" width="112" height="12"/><rect x="45" y="33" width="12" height="62"/><rect x="28" y="80" width="29" height="15"/><rect x="145" y="33" width="12" height="62"/><rect x="145" y="80" width="27" height="15"/><rect x="97" y="33" width="13" height="70"/><rect x="77" y="97" width="53" height="15"/></svg></span>Hadis Usulü</button>
+  <nav class="crumb" aria-label="Gezinme"><a class="ga" href="https://alpkiraym.github.io/" title="Giray Akademi ana sayfası" aria-label="Giray Akademi ana sayfası"><span class="mark"><svg viewBox="24 22 152 96" width="22" height="14" aria-hidden="true" fill="currentColor"><rect x="45" y="33" width="112" height="12"/><rect x="45" y="33" width="12" height="62"/><rect x="28" y="80" width="29" height="15"/><rect x="145" y="33" width="12" height="62"/><rect x="145" y="80" width="27" height="15"/><rect x="97" y="33" width="13" height="70"/><rect x="77" y="97" width="53" height="15"/></svg></span></a><span class="csep" aria-hidden="true">›</span><button class="brand" onclick="go('home')" title="Hadis Usulü ana sayfası"><span class="pmark"><svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span><span class="bt">Hadis Usulü</span></button></nav>
   <div class="spacer"></div>
   <span id="bldSlot"></span>
   <button class="ghost iconbtn" title="Ara" aria-label="Ara" onclick="openSearch()"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg></button>
