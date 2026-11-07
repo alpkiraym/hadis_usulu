@@ -26,7 +26,9 @@
   .gab-sig i{font-style:normal;opacity:.5}
   .gab-dim{position:fixed;inset:0;z-index:56;background:rgba(20,28,22,.38)}
   .gab-dim.open{display:block}
-  .gab-sheet{position:fixed;left:0;right:0;bottom:0;z-index:57;max-height:78vh;overflow:auto;-webkit-overflow-scrolling:touch;background:#f7f3ea;border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(40,30,10,.18);padding:8px 14px calc(var(--gab-h,84px) + 12px);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#1f2a24;font-size:15px;line-height:1.45}
+  html.gab-lock,html.gab-lock body{overflow:hidden!important}
+  .gab-dim{touch-action:none}
+  .gab-sheet{overscroll-behavior:contain;position:fixed;left:0;right:0;bottom:0;z-index:57;max-height:78vh;overflow:auto;-webkit-overflow-scrolling:touch;background:#f7f3ea;border-radius:18px 18px 0 0;box-shadow:0 -8px 30px rgba(40,30,10,.18);padding:8px 14px calc(var(--gab-h,84px) + 12px);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:#1f2a24;font-size:15px;line-height:1.45}
   .gab-sheet.open{display:block;animation:gabUp .2s ease-out}
   @keyframes gabUp{from{transform:translateY(30px);opacity:.4}to{transform:none;opacity:1}}
 }
@@ -121,19 +123,29 @@
     openK = k; mark();
     if(k==='dersler'){ T.textContent='Dersler'; B.innerHTML=dersler(); }
     else { T.textContent='Karnem'; B.innerHTML=karne(); }
-    sh.scrollTop=0; sh.classList.add('open'); dim.classList.add('open'); setH();
+    sh.scrollTop=0; sh.classList.add('open'); dim.classList.add('open'); setH(); kilit(true);
     if(!pushed){ try{ history.pushState(Object.assign({}, history.state, {gab:1}), ''); pushed=true; }catch(e){ pushed=false; } }
   }
   function close(){
     if(!sh.classList.contains('open')) return;
-    sh.classList.remove('open'); dim.classList.remove('open'); openK=null; mark();
+    sh.classList.remove('open'); dim.classList.remove('open'); openK=null; mark(); kilit(false);
     if(pushed){ pushed=false; closing=true; try{ history.back(); }catch(e){ closing=false; } }
   }
   // Geri hareketi önce pencereyi kapatsın; programın kendi gezinmesine geçmesin
   addEventListener('popstate', function(e){
     if(closing){ closing=false; e.stopImmediatePropagation(); return; }
-    if(sh.classList.contains('open')||pushed){ sh.classList.remove('open'); dim.classList.remove('open'); openK=null; mark(); pushed=false; e.stopImmediatePropagation(); }
+    if(sh.classList.contains('open')||pushed){ sh.classList.remove('open'); dim.classList.remove('open'); openK=null; mark(); kilit(false); pushed=false; e.stopImmediatePropagation(); }
   }, true);
+  // Pencere açıkken arkadaki sayfa kaymasın (iPhone kaydırmayı arkaya geçiriyordu)
+  var kY=0;
+  function kilit(on){ try{ document.documentElement.classList.toggle('gab-lock', !!on); }catch(e){} }
+  sh.addEventListener('touchstart', function(e){ kY=e.touches[0].clientY; }, {passive:true});
+  document.addEventListener('touchmove', function(e){
+    if(!sh.classList.contains('open')) return;
+    if(!sh.contains(e.target)){ e.preventDefault(); return; }
+    var dy=e.touches[0].clientY-kY, ust=sh.scrollTop<=0, alt_=sh.scrollTop+sh.clientHeight>=sh.scrollHeight-1;
+    if(sh.scrollHeight<=sh.clientHeight || (ust&&dy>0) || (alt_&&dy<0)) e.preventDefault();
+  }, {passive:false});
   dim.onclick=close; document.getElementById('gabX').onclick=close;
   addEventListener('keydown', function(e){ if(e.key==='Escape') close(); });
   function gitUrl(u){ close(); setTimeout(function(){ location.href=u; }, 30); }
