@@ -132,6 +132,7 @@ def main():
     if '<!--BILDIR-->' not in sablon:
         hata('sablon.html içinde <!--BILDIR--> yok')
     sablon = sablon.replace('<!--BILDIR-->', (K / 'bildir.html').read_text(encoding='utf-8'))
+    sablon = sablon.replace('<!--ALTCUBUK-->', (K / 'altcubuk.html').read_text(encoding='utf-8'))  # ortak alt çubuk (Giray Akademi)
     (KOK / 'index.html').write_text(sablon.replace('/*VERI*/', veri), encoding='utf-8')
     tanim = sum(1 for u in uniteler for s in u['s'] for b in s['b'] if b['k'] == 'd')
     print(f'{len(uniteler)} ünite, {sum(len(u["s"]) for u in uniteler)} bölüm, {tanim} tanım, '

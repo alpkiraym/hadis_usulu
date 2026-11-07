@@ -262,6 +262,8 @@ details.harita .hb{padding:0 16px 14px}
 <div class="sig"><span>© 2026 Her hakkı saklıdır</span><i>·</i><span>Designed by: <b>M.ALPKİRAY</b></span></div>
 <script>window.BLD_APP = 'Hadis Usulü'; window.BLD_PREFIX = 'hu_'; window.BLD_SLOT = '#bldSlot';</script>
 <!--BILDIR-->
+<script>window.GA_APP = 'hadis';</script>
+<!--ALTCUBUK-->
 
 <script>
 /*VERI*/
@@ -291,7 +293,23 @@ let stats = store.get('stats', {});   // anahtar -> {ok, bad}
 let boxes = store.get('boxes', {});   // tanım id -> kutu 1..5
 let oral  = store.get('oral', {});    // bölüm anahtarı -> 1/0
 let uStat = store.get('units', {});   // ünite -> en iyi mini test (0-5)
-function record(key, ok) { const s = stats[key] || {ok: 0, bad: 0}; ok ? s.ok++ : s.bad++; stats[key] = s; store.set('stats', stats); }
+function record(key, ok) { const s = stats[key] || {ok: 0, bad: 0}; ok ? s.ok++ : s.bad++; stats[key] = s; store.set('stats', stats); ozet(true); }
+/* ---------- Giray Akademi özeti (alt çubuk · Karnem) ---------- */
+const YAD = {home: 'Ana sayfa', study: 'Üniteler', quiz: 'Test', match: 'Eşleştirme', flash: 'Kavram kartları', oralView: 'Konu tekrarı', exam: 'Geçmiş sınav soruları', browse: 'Sözlük', progress: 'İlerlemem'};
+function yer() {
+  const v = curView, a = curArg;
+  if (v === 'unitView') return {ad: (a + 1) + '. ünite', url: '/hadis_usulu/#unitView-' + a};
+  if (v === 'quiz' && a && a.unit !== undefined && a.unit !== null) return {ad: (a.unit + 1) + '. ünite testi', url: '/hadis_usulu/#unitView-' + a.unit};
+  if (v === 'quiz' || v === 'home') return {ad: YAD[v], url: '/hadis_usulu/'};
+  return {ad: YAD[v] || 'Ana sayfa', url: '/hadis_usulu/#' + v};
+}
+function ozet(aktif) {
+  if (typeof gaOzet !== 'function') return;
+  const tot = Object.values(stats).reduce((a, s) => ({ok: a.ok + s.ok, bad: a.bad + s.bad}), {ok: 0, bad: 0});
+  const n = UNITELER.filter((u, i) => (uStat[i] || 0) >= GECME).length;
+  gaOzet({bitti: n / UNITELER.length, etiket: n + '/' + UNITELER.length + ' ünite', d: tot.ok, y: tot.bad, kart: Object.values(boxes).filter(b => b >= 4).length, yer: yer(), aktif: !!aktif});
+}
+function alt(b) { if (typeof gaAltGizle === 'function') gaAltGizle(b); }
 
 /* ---------- veri hazırlığı ---------- */
 const TANIM = [], ESER = [], BOLUM = [];
@@ -432,6 +450,7 @@ function render(view, arg) {
   curView = view; curArg = arg ?? null;
   window.scrollTo(0, 0);
   VIEWS()[view](arg ?? undefined);
+  ozet(false); alt(view === 'quiz' && !!(typeof Q !== 'undefined' && Q && Q.list && Q.list.length));
   if (pendingFocus) { const f = pendingFocus; pendingFocus = null; setTimeout(() => focusHit(f), 30); }
 }
 function go(view, arg) {
@@ -595,6 +614,7 @@ function wrongList() {
   return Q.yanlis.length ? `<div class="section-title" style="text-align:left">Yanlış yaptıkların</div><div class="list" style="text-align:left">${Q.yanlis.map(satir).join('')}</div>` : '';
 }
 function quizEnd() {
+  alt(false);
   const n = Q.list.length, p = Math.round(100 * Q.dogru / n);
   if (Q.unit !== undefined && Q.unit !== null) {
     const i = Q.unit, gecti = Q.dogru >= GECME;
@@ -686,7 +706,7 @@ function renderF() {
 }
 function fAns(ok) {
   const d = F.list[F.i];
-  boxes[d.id] = ok ? Math.min((boxes[d.id] || 0) + 1, 5) : 1; store.set('boxes', boxes);
+  boxes[d.id] = ok ? Math.min((boxes[d.id] || 0) + 1, 5) : 1; store.set('boxes', boxes); ozet(true);
   record('d:' + d.id, ok); if (ok) F.bildim++;
   F.i++;
   if (F.i < F.list.length) renderF();
@@ -829,8 +849,18 @@ function hit(u, s) { $('#sov').classList.remove('open'); pendingFocus = {id: `ls
 function focusHit(f) { jump(f.id); }
 
 /* ---------- başlat ---------- */
-try { history.replaceState({view: 'home', arg: null, d: 0}, ''); } catch (e) {}
+const ilkHash = (location.hash || '').slice(1);
+try { history.replaceState({view: 'home', arg: null, d: 0}, '', location.pathname + location.search); } catch (e) {}
 render('home');
+// Alt çubuktaki "Devam et" / "Dersler" bağlantısıyla gelindiyse kaldığı yere aç (ör. #unitView-7)
+(function () {
+  const h = ilkHash; if (!h) return;
+  const m = h.match(/^(\w+?)(?:-(\d+))?$/); if (!m) return;
+  const v = m[1], a = m[2] === undefined ? undefined : +m[2];
+  if (!['study', 'unitView', 'match', 'flash', 'oralView', 'exam', 'browse', 'progress'].includes(v)) return;
+  if (v === 'unitView' && !(a >= 0 && a < UNITELER.length)) return;
+  if (v === 'unitView') { go('study'); go('unitView', a); } else go(v);
+})();
 </script>
 </body>
 </html>
